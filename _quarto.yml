@@ -1,3 +1,36 @@
 project:
   type: website
   output-dir: docs
+  
+format:
+  html:
+    theme: 
+      light: theme.scss
+
+website:
+  title: "R-Hisp"
+  site-url: https://rhisp.github.io/Rhisp_web
+  description: "Pruebas nueva web"
+  page-navigation: true
+  navbar:
+    right:
+
+      - icon: twitter
+        href: https://twitter.com/R_Hisp
+      - text: Resources
+        menu: 
+          - text: Web R-es.org actual
+            href: http://r-es.org
+          - text: R Weekly
+            href: https://rweekly.org/
+          - text: R Bloggers
+            href: https://www.r-bloggers.com/ 
+            
+
+filters:
+  - lightbox
+
+lightbox: auto
+#########################  
+  
+editor: source
