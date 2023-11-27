@@ -1,8 +1,8 @@
 ---
 page-layout: full
-
+header-includes: |
+  <link href="index-styles.css" rel="stylesheet">
 ---
-
 
 
 ::: {.g-col-12 .g-col-md-6 id='about-me-text'}
