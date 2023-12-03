@@ -13,6 +13,11 @@ website:
   description: "Pruebas nueva web"
   page-navigation: true
   navbar:
+    search: true
+    background: light
+    collapse-below: lg
+    type: light
+    logo: "img/logo_cabecera.png"
     right:
 
       - icon: twitter
