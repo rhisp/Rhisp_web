@@ -4,9 +4,7 @@ project:
   
 format:
   html:
-    theme: 
-      light: theme.scss
-
+    theme: solar
 website:
   title: "R-Hisp"
   site-url: https://rhisp.github.io/Rhisp_web
@@ -30,6 +28,14 @@ website:
             href: https://rweekly.org/
           - text: R Bloggers
             href: https://www.r-bloggers.com/ 
+  sidebar: 
+    background: "#D9E3E4"
+    pinned: true
+    align: center
+    contents: 
+     - href: quienes-somos.qmd
+       text: ¿QUIÉNES SOMOS? 
+    
             
 
 filters:

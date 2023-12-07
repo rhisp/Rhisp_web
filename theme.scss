@@ -31,16 +31,15 @@ ol > li {
 }
 
 
-.navbar-dark .navbar-brand {
-  font-family: "Oleo Script", 'Merriweather', 'Roboto', $headings-font-family;
-  font-size: $font-size-base * 2.75;
-  loto-size: "300%"
-}
-
-
 .navbar > .container-xxl, .navbar > .container-xl, .navbar > .container-lg, .navbar > .container-md, .navbar > .container-sm, .navbar > .container, .navbar > .container-fluid {
   max-width: 1200px;
+  max-height: 700px;
   margin: 0 auto;
+ 
+}
+
+.navbar-brand {
+    font-size: 100%;
 }
 
 
