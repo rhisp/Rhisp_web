@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "grupos-locales.html",
+    "href": "grupos-locales.html",
+    "title": "Grupos locales",
+    "section": "",
+    "text": "La Comunidad R Hispano quiere apoyar las reuniones de grupos locales de usuarios de R en España. Por el momento, existen los siguientes:\n\nAlmería (blog, twitter)\nAsturias (twitter)\nBarcelona (blog, meetup)\nCanarias (blog, [twitter]https://twitter.com/canarias_r)\nCastilla-la-Mancha (R Quixote) (blog, twitter)\nCórdoba (twitter)\nGalicia (portal, twitter)\nMálaga (blog, twitter)\nMadrid (blog, meetup)\nMurcia (portal, twitter)\nSalamanca (portal)\nSevilla (blog, meetup,twitter)\nValencia (blog, twitter, slideshare)\n\nSi conoces o quieres formar otro grupo y darlo a conocer en este página, ponte en contacto con nosotros."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Hola a todos",
@@ -35,11 +42,11 @@
     "text": "¿Quiénes forman la Comunidad?\nLa Comunidad la forman sus 706 socios y, de manera más amplia, quienes participan en sus actividades.\nLa composición de la actual junta directiva es:\n\nPresidente: Emilio López Cano\nVicepresidente: José Luis Cañadas Reche\nSecretaria: Sandra Barragán Andrés\nTesorero: Leonardo Hansa Torres\nVocales: Pedro Concejero Cerezo, Luz Frías Díaz, Paula López Casado, Carlos Ortega Fernández, Francisco Javier Ibáñez López"
   },
   {
-    "objectID": "grupos-locales.html",
-    "href": "grupos-locales.html",
-    "title": "Grupos locales",
-    "section": "",
-    "text": "La Comunidad R Hispano quiere apoyar las reuniones de grupos locales de usuarios de R en España. Por el momento, existen los siguientes:\n\nAlmería (blog, twitter)\nAsturias (twitter)\nBarcelona (blog, meetup)\nCanarias (blog, [twitter]https://twitter.com/canarias_r)\nCastilla-la-Mancha (R Quixote) (blog, twitter)\nCórdoba (twitter)\nGalicia (portal, twitter)\nMálaga (blog, twitter)\nMadrid (blog, meetup)\nMurcia (portal, twitter)\nSalamanca (portal)\nSevilla (blog, meetup,twitter)\nValencia (blog, twitter, slideshare)\n\nSi conoces o quieres formar otro grupo y darlo a conocer en este página, ponte en contacto con nosotros."
+    "objectID": "quienes-somos.html#estatutos",
+    "href": "quienes-somos.html#estatutos",
+    "title": "¿Quiénes somos?",
+    "section": "Estatutos",
+    "text": "Estatutos\nLink"
   },
   {
     "objectID": "empleo.html",
@@ -61,12 +68,5 @@
     "title": "Empleo",
     "section": "¿Buscas expertos en R?",
     "text": "¿Buscas expertos en R?\nSi quieres publicar tu oferta, envía un correo a empleo arroba r-es.org datallando las condiciones de la oferta, que saldrá publicada en los próximos días.\nRecuerda que, en cualquier caso, la Comunidad R Hispano se reserva el derecho a no publicar alguna oferta, especialmente si no cumple determinados requisitos básicos."
-  },
-  {
-    "objectID": "quienes-somos.html#estatutos",
-    "href": "quienes-somos.html#estatutos",
-    "title": "¿Quiénes somos?",
-    "section": "Estatutos",
-    "text": "Estatutos\nLink"
   }
 ]
