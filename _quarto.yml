@@ -23,24 +23,6 @@ website:
   
   navbar:
     logo: "images/logo_twitter.png"
-    right:
-      - href: quienes-somos.qmd
-        text: Quiénes somos
-      - href: grupos-locales.qmd
-        text: Grupos locales
-      - icon: github
-        href: https://github.com/rhisp
-      - icon: twitter
-        href: https://twitter.com/R_Hisp
-      - text: Resources
-        menu: 
-          - text: R Weekly
-            href: https://rweekly.org/
-          - text: R Bloggers
-            href: https://www.r-bloggers.com/ 
-          - text: Datanalytics
-            href: https://www.datanalytics.com/
-            
   
   sidebar:
     background: "#D9E3E4"
