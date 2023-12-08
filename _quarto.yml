@@ -29,7 +29,10 @@ website:
     tools:
       - icon: github
         href: https://github.com/rhisp
-        text: "GitHub organization"
+        text: "GitHub organización"
+      - icon: twitter
+        href: https://twitter.com/R_Hisp
+        text: "Twitter organización"
 
     style: "docked"
     search: true
