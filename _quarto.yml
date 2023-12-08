@@ -14,13 +14,34 @@ website:
 
   twitter-card:
     creator: "@R_Hisp"
-    image: "images/twitter-card.png"
+    image: "images/logo_twitter.png"
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "Comunidad RHispano"
     background: "#D9E3E4"
-
+  
+  navbar:
+    logo: "images/logo_twitter.png"
+    right:
+      - href: quienes-somos.qmd
+        text: Quiénes somos
+      - href: grupos-locales.qmd
+        text: Grupos locales
+      - icon: github
+        href: https://github.com/rhisp
+      - icon: twitter
+        href: https://twitter.com/R_Hisp
+      - text: Resources
+        menu: 
+          - text: R Weekly
+            href: https://rweekly.org/
+          - text: R Bloggers
+            href: https://www.r-bloggers.com/ 
+          - text: Datanalytics
+            href: https://www.datanalytics.com/
+            
+  
   sidebar:
     background: "#D9E3E4"
     logo: "images/logo_cabecera.png"
