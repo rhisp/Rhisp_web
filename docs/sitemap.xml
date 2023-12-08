@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/index.html</loc>
-    <lastmod>2023-12-07T20:44:38.400Z</lastmod>
+    <lastmod>2023-12-07T21:00:05.928Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/quienes-somos.html</loc>
     <lastmod>2023-12-07T20:44:33.864Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/grupos-locales.html</loc>
+    <lastmod>2023-12-08T09:36:06.191Z</lastmod>
   </url>
 </urlset>

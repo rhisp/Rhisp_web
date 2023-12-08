@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Hola a todos",
     "section": "",
-    "text": "Inicio de pruebas nueva web R_hisp\nMe puedes encontrar en Twitter"
+    "text": "Inicio de pruebas nueva web R_hisp\nMe puedes encontrar en Twitter\n\n\nLink"
   },
   {
     "objectID": "index.html#estatutos",
     "href": "index.html#estatutos",
     "title": "Hola a todos",
-    "section": "Estatutos",
-    "text": "Estatutos\nLink"
+    "section": "",
+    "text": "Link"
   },
   {
     "objectID": "quienes-somos.html",
@@ -33,5 +33,12 @@
     "title": "¿Quiénes somos?",
     "section": "¿Quiénes forman la Comunidad?",
     "text": "¿Quiénes forman la Comunidad?\nLa Comunidad la forman sus 706 socios y, de manera más amplia, quienes participan en sus actividades.\nLa composición de la actual junta directiva es:\n\nPresidente: Emilio López Cano\nVicepresidente: José Luis Cañadas Reche\nSecretaria: Sandra Barragán Andrés\nTesorero: Leonardo Hansa Torres\nVocales: Pedro Concejero Cerezo, Luz Frías Díaz, Paula López Casado, Carlos Ortega Fernández, Francisco Javier Ibáñez López"
+  },
+  {
+    "objectID": "grupos-locales.html",
+    "href": "grupos-locales.html",
+    "title": "Grupos locales",
+    "section": "",
+    "text": "La Comunidad R Hispano quiere apoyar las reuniones de grupos locales de usuarios de R en España. Por el momento, existen los siguientes:\n\nAlmería (blog, twitter)\nAsturias (twitter)\nBarcelona (blog, meetup)\nCanarias (blog, [twitter]https://twitter.com/canarias_r)\nCastilla-la-Mancha (R Quixote) (blog, twitter)\nCórdoba (twitter)\nGalicia (portal, twitter)\nMálaga (blog, twitter)\nMadrid (blog, meetup)\nMurcia (portal, twitter)\nSalamanca (portal)\nSevilla (blog, meetup,twitter)\nValencia (blog, twitter, slideshare)\n\nSi conoces o quieres formar otro grupo y darlo a conocer en este página, ponte en contacto con nosotros."
   }
 ]

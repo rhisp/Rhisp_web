@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  
+format:
+  html:
+    theme: cosmo
+    page-layout: full
+    grid:
+      sidebar-width: 350px
+website:
+  title: "R-Hisp"
+  site-url: https://rhisp.github.io/Rhisp_web
+  description: "Pruebas nueva web"
+  page-navigation: true
+  sidebar: 
+    search: true
+    background: "#D9E3E4"
+    logo: "img/logo_cabecera.png"
+    align: left
+    contents: 
+     - href: quienes-somos.qmd
+       text: ¿QUIÉNES SOMOS? 
+    
+            
+
+filters:
+  - lightbox
+
+lightbox: auto
+#########################  
+  
+editor: source

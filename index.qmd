@@ -5,7 +5,6 @@ header-includes: |
 ---
 
 
-::: {.g-col-12 .g-col-md-6 id='about-me-text'}
 # Hola a todos
 
 Inicio de pruebas nueva web R_hisp
@@ -14,7 +13,7 @@ Inicio de pruebas nueva web R_hisp
 Me puedes encontrar en 
 [Twitter](https://twitter.com/R_Hisp) 
 
-:::
+
 
 ## Estatutos
 
