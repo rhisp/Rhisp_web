@@ -2,7 +2,10 @@
 title: "Grupos locales"
 ---
 
+
 La Comunidad R Hispano quiere apoyar las reuniones de grupos locales de usuarios de R en España. Por el momento, existen los siguientes:
+
+## Grupos locales
 
 * Almería ([blog](https://almeriarusers.wordpress.com/), [twitter](https://twitter.com/AlmeriaRUsers))
 * Asturias ([twitter](https://twitter.com/grupoRasturias))
