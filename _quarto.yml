@@ -22,10 +22,11 @@ website:
     background: "#D9E3E4"
   
   navbar:
+    background: "#F9F6F6"
     logo: "images/logo_twitter.png"
   
   sidebar:
-    background: "#D9E3E4"
+    background: "#F9F6F6"
     logo: "images/logo_cabecera.png"
     pinned: true
     align: center
