@@ -1,0 +1,13 @@
+---
+title: "Empleo"
+---
+
+## ¿Buscas un trabajo relacionado con R?
+
+La Comunidad R Hispano publica en su blog las ofertas de trabajo bajo la etiqueta Empleo.
+
+## ¿Buscas expertos en R?
+
+Si quieres publicar tu oferta, envía un correo a empleo arroba r-es.org datallando las condiciones de la oferta, que saldrá publicada en los próximos días.
+
+Recuerda que, en cualquier caso, la Comunidad R Hispano se reserva el derecho a no publicar alguna oferta, especialmente si no cumple determinados requisitos básicos.

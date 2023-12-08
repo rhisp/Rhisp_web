@@ -1,7 +1,5 @@
 ---
 page-layout: full
-header-includes: |
-  <link href="index-styles.css" rel="stylesheet">
 ---
 
 

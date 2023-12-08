@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/index.html</loc>
-    <lastmod>2023-12-07T21:00:05.928Z</lastmod>
+    <lastmod>2023-12-08T09:44:24.348Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/quienes-somos.html</loc>
-    <lastmod>2023-12-07T20:44:33.864Z</lastmod>
+    <lastmod>2023-12-08T09:42:28.033Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/grupos-locales.html</loc>
-    <lastmod>2023-12-08T09:36:06.191Z</lastmod>
+    <lastmod>2023-12-08T09:41:21.315Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/empleo.html</loc>
+    <lastmod>2023-12-08T09:42:28.509Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/formacion.html</loc>
+    <lastmod>2023-12-08T09:44:33.788Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/materiales/docu_barna.html</loc>
+    <lastmod>2023-12-08T09:44:37.744Z</lastmod>
   </url>
 </urlset>
