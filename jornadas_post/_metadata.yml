@@ -1,0 +1,21 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+#freeze: true
+freeze: true
+
+# Enable banner style title blocks
+title-block-banner: false
+page-layout: article
+
+# Author name of all blog posts
+author: 'Comunidad R-Hispano'
+
+# Table of content settings
+toc: true
+toc-depth: 3
+
+comments: 
+  giscus: 
+    repo:  rhisp/blog_comments
