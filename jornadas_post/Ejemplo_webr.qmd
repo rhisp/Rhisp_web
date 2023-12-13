@@ -1,0 +1,36 @@
+---
+title: Ejemplo webr
+date: '2023-08-16'
+date-modified: last-modified
+categories:
+  - 2023
+  - R
+  - Comunidad
+  - avances
+execute: 
+  message: false
+  warning: false
+  echo: true
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+knitr:
+  opts_chunk:
+    out.width: 80%
+    fig.showtext: TRUE
+    collapse: true
+    comment: "#>"
+filters:
+  - webr
+---
+
+Hay nueva tecnología, usar R dentro de la web. Dale a Run Code
+
+```{webr-r}
+fit = lm(mpg ~ am, data = mtcars)
+
+summary(fit)
+```

@@ -2,42 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/grupos-locales.html</loc>
-    <lastmod>2023-12-09T09:32:55.432Z</lastmod>
+    <lastmod>2023-12-13T20:42:22.290Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/formacion.html</loc>
-    <lastmod>2023-12-09T09:32:54.620Z</lastmod>
+    <lastmod>2023-12-13T20:42:21.502Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jor1.html</loc>
-    <lastmod>2023-12-09T09:32:53.916Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rhisp.github.io/Rhisp_web/materiales/docu_barna.html</loc>
-    <lastmod>2023-12-09T09:32:52.060Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rhisp.github.io/Rhisp_web/index.html</loc>
-    <lastmod>2023-12-09T09:41:13.213Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rhisp.github.io/Rhisp_web/quienes-somos.html</loc>
-    <lastmod>2023-12-09T09:32:50.828Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rhisp.github.io/Rhisp_web/Jornadas_post.html</loc>
-    <lastmod>2023-12-09T09:33:15.027Z</lastmod>
+    <lastmod>2023-12-13T20:42:20.774Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_Barcelona.html</loc>
-    <lastmod>2023-12-09T09:33:21.635Z</lastmod>
+    <lastmod>2023-12-13T20:42:19.522Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/Jornadas_post.html</loc>
+    <lastmod>2023-12-13T20:42:17.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/quienes-somos.html</loc>
+    <lastmod>2023-12-13T20:42:16.194Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/index.html</loc>
+    <lastmod>2023-12-13T20:42:16.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/materiales/docu_barna.html</loc>
+    <lastmod>2023-12-13T20:42:17.530Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/jornadas_post/Ejemplo_webr.html</loc>
+    <lastmod>2023-12-13T20:42:20.426Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jor2.html</loc>
-    <lastmod>2023-12-09T09:32:54.260Z</lastmod>
+    <lastmod>2023-12-13T20:42:21.150Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/empleo.html</loc>
-    <lastmod>2023-12-09T09:32:54.976Z</lastmod>
+    <lastmod>2023-12-13T20:42:21.898Z</lastmod>
   </url>
 </urlset>
