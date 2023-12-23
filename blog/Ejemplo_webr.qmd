@@ -1,6 +1,6 @@
 ---
 title: Ejemplo webr
-date: '2023-08-16'
+date: '2023-12-23'
 date-modified: last-modified
 categories:
   - 2023
@@ -15,7 +15,7 @@ format:
   html: 
     fig-height: 5
     fig-dpi: 300
-    fig-width: 8.88
+    fig-width: 9
     fig-align: center
 knitr:
   opts_chunk:

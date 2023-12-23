@@ -2,16 +2,11 @@
 page-layout: full
 ---
 
-
-# Hola a todos
-
-Inicio de pruebas nueva web R_hisp
+# Web de la comunidad R-Hispano 
 
 
-Me puedes encontrar en 
-[Twitter](https://twitter.com/R_Hisp) 
 
-
+Nos puedes encontrar en [Twitter](https://twitter.com/R_Hisp)
 
 ## Estatutos
 

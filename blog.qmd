@@ -1,7 +1,7 @@
 ---
 listing:
   contents:
-        - "jornadas_post/"
+        - "blog/"
   type: default
   sort: "date desc"
   sort-ui: true

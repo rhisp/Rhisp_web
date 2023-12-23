@@ -1,0 +1,87 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Comunidad R Hispano"
+  description: "Asociación de usuarios de R de España"
+  site-url: "https://rhisp.github.io/Rhisp_web/"
+  repo-url: https://github.com/rhisp/Rhisp_web
+  repo-actions: [edit, issue]
+
+  open-graph: true
+
+  twitter-card:
+    creator: "@R_Hisp"
+    image: "images/logo_twitter.png"
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "Comunidad RHispano"
+    background: "#D9E3E4"
+  
+  navbar:
+    background: "#F9F6F6"
+    logo: "images/logo_hexagonal.jpeg"
+  
+  sidebar:
+    background: "#F9F6F6"
+    logo: "images/logo_cabecera.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/rhisp
+        text: "GitHub organización"
+      - icon: twitter
+        href: https://twitter.com/R_Hisp
+        text: "Twitter organización"
+
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Sobre la Comunidad"
+        contents:
+          - href: quienes-somos.qmd
+            text: Quiénes somos
+          - href: grupos-locales.qmd
+            text: Grupos locales
+      - section: "Formación y Empleo"
+        contents:
+          - href: empleo.qmd
+            text: Empleo
+          - href: formacion.qmd
+            text: Formacion
+      - section: "Jornadas"
+        contents:
+          - href: Jornadas_post.qmd
+            text: Posts sobre jornadas
+          - href: jor1.qmd
+            text: Jor1
+          - href: jor2.qmd
+            text: Jor2
+      - section: "Recursos y materiales"
+        contents:
+          - href: materiales/docu_barna.qmd
+            text: "Jornadas Barcelona"
+
+
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss]
+      dark: [cosmo, theme-dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+freeze: auto
+
+editor: visual
+
+filters:
+  - lightbox
