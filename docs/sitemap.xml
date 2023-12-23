@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/grupos-locales.html</loc>
-    <lastmod>2023-12-13T20:42:22.290Z</lastmod>
+    <lastmod>2023-12-23T10:31:01.165Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/formacion.html</loc>
-    <lastmod>2023-12-13T20:42:21.502Z</lastmod>
+    <lastmod>2023-12-23T10:31:05.433Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jor1.html</loc>
@@ -14,27 +14,27 @@
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_Barcelona.html</loc>
-    <lastmod>2023-12-13T20:42:19.522Z</lastmod>
+    <lastmod>2023-12-23T10:32:00.061Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/Jornadas_post.html</loc>
-    <lastmod>2023-12-16T16:03:37.129Z</lastmod>
+    <lastmod>2023-12-23T10:11:00.154Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/quienes-somos.html</loc>
-    <lastmod>2023-12-13T20:42:16.194Z</lastmod>
+    <lastmod>2023-12-23T10:10:01.714Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/index.html</loc>
-    <lastmod>2023-12-13T20:42:16.582Z</lastmod>
+    <lastmod>2023-12-23T10:30:48.293Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/materiales/docu_barna.html</loc>
-    <lastmod>2023-12-13T20:42:17.530Z</lastmod>
+    <lastmod>2023-12-23T08:50:52.566Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jornadas_post/Ejemplo_webr.html</loc>
-    <lastmod>2023-12-16T16:03:38.417Z</lastmod>
+    <lastmod>2023-12-23T10:31:08.969Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jor2.html</loc>
@@ -42,6 +42,10 @@
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/empleo.html</loc>
-    <lastmod>2023-12-13T20:42:21.898Z</lastmod>
+    <lastmod>2023-12-23T10:31:03.973Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/jornadas.html</loc>
+    <lastmod>2023-12-23T10:31:47.061Z</lastmod>
   </url>
 </urlset>

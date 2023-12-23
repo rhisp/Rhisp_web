@@ -2,8 +2,13 @@
   {
     "listing": "/Jornadas_post.html",
     "items": [
-      "/jornadas_post/Jornadas_R_Barcelona.html",
-      "/jornadas_post/Ejemplo_webr.html"
+      "/jornadas_post/Jornadas_R_Barcelona.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/Ejemplo_webr.html"
     ]
   }
 ]

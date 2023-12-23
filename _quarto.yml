@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  
+highlight-style: ayu
+code-annotations: hover
 
 website:
   page-navigation: true
@@ -19,65 +22,64 @@ website:
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
     left: "Comunidad RHispano"
-    background: "#D9E3E4"
   
   navbar:
-    background: "#F9F6F6"
     logo: "images/logo_hexagonal.jpeg"
-  
-  sidebar:
-    background: "#F9F6F6"
-    logo: "images/logo_cabecera.png"
-    pinned: true
-    align: center
-    tools:
+    tools: 
       - icon: github
         href: https://github.com/rhisp
-        text: "GitHub organización"
       - icon: twitter
         href: https://twitter.com/R_Hisp
-        text: "Twitter organización"
-
-    style: "docked"
-    search: true
-    collapse-level: 1
-    contents:
-      - section: "Sobre la Comunidad"
-        contents:
-          - href: quienes-somos.qmd
-            text: Quiénes somos
-          - href: grupos-locales.qmd
-            text: Grupos locales
-      - section: "Formación y Empleo"
-        contents:
-          - href: empleo.qmd
-            text: Empleo
-          - href: formacion.qmd
-            text: Formacion
-      - section: "Jornadas"
-        contents:
-          - href: Jornadas_post.qmd
-            text: Posts sobre jornadas
-          - href: jor1.qmd
-            text: Jor1
-          - href: jor2.qmd
-            text: Jor2
-      - section: "Recursos y materiales"
-        contents:
-          - href: materiales/docu_barna.qmd
-            text: "Jornadas Barcelona"
-
-
-
+        
+    left:
+      - sidebar:quienes-somos
+      - sidebar:jornadas
+      - sidebar:empleo
+      - sidebar:formacion
+      - text: GRUPOS LOCALES
+        href: grupos-locales.qmd
+      - text: BLOG
+        href: blog.qmd
+      
+  sidebar:
+    - id: ""
+    - id: quienes-somos
+      title: "QUIÉNES SOMOS"
+      style: "docked"
+      collapse-level: 2
+      contents:
+       - quienes-somos.qmd
+    - id: jornadas
+      title: "JORNADAS"
+      style: "docked"
+      collapse-level: 2
+      contents:
+        - text: Enlaces Jornadas anteriores
+          href: jornadas.qmd
+        - section: Post Jornadas
+          contents:
+            - auto: jornadas_post/*.qmd
+    - id: empleo
+      title: "EMPLEO"
+      style: "docked"
+      collapse-level: 2
+      contents:
+       - empleo.qmd
+    - id: formacion
+      title: "FORMACION"
+      style: "docked"
+      collapse-level: 2
+      contents:
+       - auto: formacion_post/*.qmd
 format:
   html:
     theme:
-      light: [cosmo, theme.scss]
-      dark: [cosmo, theme-dark.scss]
-    mainfont: "Atkinson Hyperlegible"
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
     toc: true
+
 
 freeze: auto
 

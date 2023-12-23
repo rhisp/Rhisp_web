@@ -1,0 +1,5 @@
+---
+title: "Jornadas anteriores"
+---
+
+[Jornada Madrid 2011](http://r-es.org/03jr/)
