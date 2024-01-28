@@ -67,7 +67,6 @@ format:
   html:
     theme:
       light: [flatly, theme-light.scss]
-      dark: [darkly, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
     toc: true
