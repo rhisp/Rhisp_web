@@ -14,6 +14,27 @@
     "text": "Grupos locales\n\nAlmería (blog, twitter)\nAsturias (twitter)\nBarcelona (blog, meetup)\nCanarias (blog, [twitter]https://twitter.com/canarias_r)\nCastilla-la-Mancha (R Quixote) (blog, twitter)\nCórdoba (twitter)\nGalicia (portal, twitter)\nMálaga (blog, twitter)\nMadrid (blog, meetup)\nMurcia (portal, twitter)\nSalamanca (portal)\nSevilla (blog, meetup,twitter)\nValencia (blog, twitter, slideshare)\n\nSi conoces o quieres formar otro grupo y darlo a conocer en este página, ponte en contacto con nosotros."
   },
   {
+    "objectID": "empleo.html",
+    "href": "empleo.html",
+    "title": "Empleo",
+    "section": "",
+    "text": "La Comunidad R Hispano publica en su blog las ofertas de trabajo bajo la etiqueta Empleo."
+  },
+  {
+    "objectID": "empleo.html#buscas-un-trabajo-relacionado-con-r",
+    "href": "empleo.html#buscas-un-trabajo-relacionado-con-r",
+    "title": "Empleo",
+    "section": "",
+    "text": "La Comunidad R Hispano publica en su blog las ofertas de trabajo bajo la etiqueta Empleo."
+  },
+  {
+    "objectID": "empleo.html#buscas-expertos-en-r",
+    "href": "empleo.html#buscas-expertos-en-r",
+    "title": "Empleo",
+    "section": "¿Buscas expertos en R?",
+    "text": "¿Buscas expertos en R?\nSi quieres publicar tu oferta, envía un correo a empleo arroba r-es.org datallando las condiciones de la oferta, que saldrá publicada en los próximos días.\nRecuerda que, en cualquier caso, la Comunidad R Hispano se reserva el derecho a no publicar alguna oferta, especialmente si no cumple determinados requisitos básicos."
+  },
+  {
     "objectID": "jornadas_post/Jornadas_R_Barcelona.html",
     "href": "jornadas_post/Jornadas_R_Barcelona.html",
     "title": "II Congreso de R y XIII Jornadas de usuarios de R 15-17 Noviembre 2023",
@@ -21,11 +42,32 @@
     "text": "Como todos los años (salvo los de pandemia que nos vimos obligados a suspenderlo) nos juntaRemos en las Jornadas y Congreso de usuarios R, esta vez en Barcelona. Del 15 a 17 de noviembre.\nDetalles y enlaces a toda la información:\nhttps://eventum.upf.edu/101896/detail/ii-congres-de-r-i-xiii-jornades-drusuaris-de-r.html\nLlamada a comunicaciones (¡¡hasta el 12 de septiembre!!):\nhttps://eventum.upf.edu/101896/section/44775/ii-congreso-de-r-y-xiii-jornadas-de-usuarios-de-r.html\nInscripciones (recuerda que debes ser socio R-hispano para disponer del precio reducido):\nhttps://eventum.upf.edu/101896/tickets/ii-congreso-de-r-y-xiii-jornadas-de-usuarios-de-r.html\nSi no eres socio R-hispano, ¡es facilísimo! Simplemente rellena este formulario:\nhttps://docs.google.com/forms/d/1qq2l2we1JvVFjLAKmvqz3CuzQIzouKLU2-h5ekArqJE/edit\nEsperamos veros en Barcelona!"
   },
   {
+    "objectID": "jornadas.html",
+    "href": "jornadas.html",
+    "title": "Jornadas anteriores",
+    "section": "",
+    "text": "Jornada Madrid 2011"
+  },
+  {
     "objectID": "Jornadas_post.html",
     "href": "Jornadas_post.html",
     "title": "Comunidad R Hispano",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nII Congreso de R y XIII Jornadas de usuarios de R 15-17 Noviembre 2023\n\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\nJornadas\n\n\n\n\n\n\n\n\n\n\n\nAug 16, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Web de la comunidad R-Hispano",
+    "section": "",
+    "text": "Nos puedes encontrar en Twitter\n\n\nLink"
+  },
+  {
+    "objectID": "index.html#estatutos",
+    "href": "index.html#estatutos",
+    "title": "Web de la comunidad R-Hispano",
+    "section": "",
+    "text": "Link"
   },
   {
     "objectID": "quienes-somos.html",
@@ -56,46 +98,11 @@
     "text": "Estatutos\nLink"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Web de la comunidad R-Hispano",
+    "objectID": "empleo_post/2023/convocatorio_contrato_urjc.html",
+    "href": "empleo_post/2023/convocatorio_contrato_urjc.html",
+    "title": "Convocatoria contrato en URJC",
     "section": "",
-    "text": "Nos puedes encontrar en Twitter\n\n\nLink"
-  },
-  {
-    "objectID": "index.html#estatutos",
-    "href": "index.html#estatutos",
-    "title": "Web de la comunidad R-Hispano",
-    "section": "",
-    "text": "Link"
-  },
-  {
-    "objectID": "jornadas_post/Ejemplo_webr.html",
-    "href": "jornadas_post/Ejemplo_webr.html",
-    "title": "Ejemplo webr",
-    "section": "",
-    "text": "Hay nueva tecnología, usar R dentro de la web. Dale a Run Code\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
-  },
-  {
-    "objectID": "empleo.html",
-    "href": "empleo.html",
-    "title": "Empleo",
-    "section": "",
-    "text": "La Comunidad R Hispano publica en su blog las ofertas de trabajo bajo la etiqueta Empleo."
-  },
-  {
-    "objectID": "empleo.html#buscas-un-trabajo-relacionado-con-r",
-    "href": "empleo.html#buscas-un-trabajo-relacionado-con-r",
-    "title": "Empleo",
-    "section": "",
-    "text": "La Comunidad R Hispano publica en su blog las ofertas de trabajo bajo la etiqueta Empleo."
-  },
-  {
-    "objectID": "empleo.html#buscas-expertos-en-r",
-    "href": "empleo.html#buscas-expertos-en-r",
-    "title": "Empleo",
-    "section": "¿Buscas expertos en R?",
-    "text": "¿Buscas expertos en R?\nSi quieres publicar tu oferta, envía un correo a empleo arroba r-es.org datallando las condiciones de la oferta, que saldrá publicada en los próximos días.\nRecuerda que, en cualquier caso, la Comunidad R Hispano se reserva el derecho a no publicar alguna oferta, especialmente si no cumple determinados requisitos básicos."
+    "text": "Acaba de publicarse la convocatoria oficial para un candidato/a que tenga un máster oficial, para continuar con el doctorado en el contexto de este proyecto. Convocatoria: https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/M3266-5016_c.pdf\nInscripción: https://gestion2.urjc.es/convocatoria/M3266-5016\n\nPlazo de inscripción: del 20-12-2023 a las 00:00 hasta el 12-01-2024 a las 23:59.\nEs posible que el registro de inscripción no esté disponible algunos días entre el 23-12-2023 y el 07-01-2024, ambos inclusive.\n\n\nResumen del perfil:\nImprescindible Máster Oficial que habilite para inscribirse en nuestro programa de Doctorado TIC. En una línea afín al proyecto: ciencia de datos, minería de datos, estadística, computación, etc.\n\nExperiencia en programación con R. Se puede valorar también experiencia con Python, Java u otro lenguaje de programación.\nExperiencia con bases de datos, mejor si están relacionadas con biología, datos ómicos o similar.\nInterés por desarrollar conceptos y herramientas de investigación reproducible y workflows/pipelines de datos.\nEs positiva cualquier otra experiencia con datos que aparecerán en el proyecto: análisis de imágenes, datos climáticos, GIS. Imprescindible buen dominio de inglés (lectura/escritura/conversación).\nResumen del proyecto: https://cordis.europa.eu/project/id/101135314"
   },
   {
     "objectID": "blog/Ejemplo_webr.html",
@@ -105,6 +112,13 @@
     "text": "Hay nueva tecnología, usar R dentro de la web. Dale a Run Code\n\n\nPlease enable JavaScript to experience the dynamic code cell content on this page."
   },
   {
+    "objectID": "Empleo_post.html",
+    "href": "Empleo_post.html",
+    "title": "Comunidad R Hispano",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nConvocatoria contrato en URJC\n\n\n\n\n\n\n\n2023\n\n\nEmpleo\n\n\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Comunidad R Hispano",
@@ -112,10 +126,17 @@
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nEjemplo webr\n\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\navances\n\n\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "jornadas.html",
-    "href": "jornadas.html",
-    "title": "Jornadas anteriores",
+    "objectID": "hazte_socia.html",
+    "href": "hazte_socia.html",
+    "title": "Hazte Socio/a",
     "section": "",
-    "text": "Jornada Madrid 2011"
+    "text": "Si quieres asociarte a la Comunidad R Hispano, puedes hacerlo rellenando este formulario"
+  },
+  {
+    "objectID": "formacion_post/formacion.html",
+    "href": "formacion_post/formacion.html",
+    "title": "Formación",
+    "section": "",
+    "text": "Fichero para formación aquí ir poniendo los posts sobre formación"
   }
 ]

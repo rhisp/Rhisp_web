@@ -24,6 +24,7 @@ website:
     left: "Comunidad RHispano"
   
   navbar:
+    background: "#F9F6F6"
     logo: "images/logo_hexagonal.jpeg"
     tools: 
       - icon: github
@@ -32,39 +33,30 @@ website:
         href: https://twitter.com/R_Hisp
         
     left:
-      - sidebar:quienes-somos
-      - sidebar:jornadas
+      - text: QUIÉNES SOMOS
+        href: quienes-somos.qmd 
+      - text: HAZTE SOCIO/A
+        href: hazte_socia.qmd 
+      - text: JORNADAS
+        href: Jornadas_post.qmd
       - sidebar:empleo
       - sidebar:formacion
       - text: GRUPOS LOCALES
         href: grupos-locales.qmd
       - text: BLOG
         href: blog.qmd
-      
+
   sidebar:
     - id: ""
-    - id: quienes-somos
-      title: "QUIÉNES SOMOS"
-      style: "docked"
-      collapse-level: 2
-      contents:
-       - quienes-somos.qmd
-    - id: jornadas
-      title: "JORNADAS"
-      style: "docked"
-      collapse-level: 2
-      contents:
-        - text: Enlaces Jornadas anteriores
-          href: jornadas.qmd
-        - section: Post Jornadas
-          contents:
-            - auto: jornadas_post/*.qmd
     - id: empleo
       title: "EMPLEO"
       style: "docked"
       collapse-level: 2
       contents:
-       - empleo.qmd
+        - empleo.qmd
+        - section: Post empleo
+          contents:
+            - auto: empleo_post/**/*.qmd
     - id: formacion
       title: "FORMACION"
       style: "docked"

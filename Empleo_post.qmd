@@ -1,0 +1,15 @@
+---
+listing:
+  contents:
+        - "empleo_post/**/*.qmd"
+  type: default
+  sort: "date desc"
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories, image]
+  categories: true
+  feed: true
+page-layout: full
+title-block-banner: true
+page-navigation: true
+---
