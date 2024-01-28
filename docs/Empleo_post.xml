@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Comunidad R Hispano</title>
+<link>https://rhisp.github.io/Rhisp_web/Empleo_post.html</link>
+<atom:link href="https://rhisp.github.io/Rhisp_web/Empleo_post.xml" rel="self" type="application/rss+xml"/>
+<description>Asociación de usuarios de R de España</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Tue, 19 Dec 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Convocatoria contrato en URJC</title>
+  <dc:creator>Pedro Concejero</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/empleo_post/2023/convocatorio_contrato_urjc.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Acaba de publicarse la convocatoria oficial para un candidato/a que tenga un máster oficial, para continuar con el doctorado en el contexto de este proyecto. Convocatoria: https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/M3266-5016_c.pdf</p>
+<p>Inscripción: https://gestion2.urjc.es/convocatoria/M3266-5016</p>
+<section id="plazo-de-inscripción-del-20-12-2023-a-las-0000-hasta-el-12-01-2024-a-las-2359." class="level3">
+<h3 class="anchored" data-anchor-id="plazo-de-inscripción-del-20-12-2023-a-las-0000-hasta-el-12-01-2024-a-las-2359.">Plazo de inscripción: del 20-12-2023 a las 00:00 hasta el 12-01-2024 a las 23:59.</h3>
+<p>Es posible que el registro de inscripción no esté disponible algunos días entre el 23-12-2023 y el 07-01-2024, ambos inclusive.</p>
+</section>
+<section id="resumen-del-perfil" class="level3">
+<h3 class="anchored" data-anchor-id="resumen-del-perfil">Resumen del perfil:</h3>
+<p><em>Imprescindible Máster Oficial que habilite para inscribirse en nuestro programa de Doctorado TIC.</em> En una línea afín al proyecto: ciencia de datos, minería de datos, estadística, computación, etc.</p>
+<ul>
+<li>Experiencia en programación con R. Se puede valorar también experiencia con Python, Java u otro lenguaje de programación.</li>
+<li>Experiencia con bases de datos, mejor si están relacionadas con biología, datos ómicos o similar.</li>
+<li>Interés por desarrollar conceptos y herramientas de investigación reproducible y workflows/pipelines de datos.</li>
+<li>Es positiva cualquier otra experiencia con datos que aparecerán en el proyecto: análisis de imágenes, datos climáticos, GIS. Imprescindible buen dominio de inglés (lectura/escritura/conversación).</li>
+<li>Resumen del proyecto: https://cordis.europa.eu/project/id/101135314</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>2023</category>
+  <category>Empleo</category>
+  <guid>https://rhisp.github.io/Rhisp_web/empleo_post/2023/convocatorio_contrato_urjc.html</guid>
+  <pubDate>Tue, 19 Dec 2023 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

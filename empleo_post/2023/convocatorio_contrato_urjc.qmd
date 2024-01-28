@@ -1,0 +1,46 @@
+---
+title: "Convocatoria contrato en URJC"
+author: "Pedro Concejero"
+date: '2023-12-20'
+date-modified: last-modified
+categories:
+  - 2023
+  - Empleo
+execute: 
+  message: false
+  warning: false
+  echo: true
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+knitr:
+  opts_chunk:
+    out.width: 80%
+    fig.showtext: TRUE
+    collapse: true
+    comment: "#>"
+---
+
+Acaba de publicarse la convocatoria oficial para un candidato/a que tenga un máster oficial, para continuar con el doctorado en el contexto de este proyecto.
+Convocatoria:
+https://www.urjc.es/images/Investigacion/i-d-i/convocatorias/cargo_proyectos/M3266-5016_c.pdf
+
+Inscripción:
+https://gestion2.urjc.es/convocatoria/M3266-5016
+
+### Plazo de inscripción: del 20-12-2023 a las 00:00 hasta el 12-01-2024 a las 23:59.
+
+Es posible que el registro de inscripción no esté disponible algunos días entre el 23-12-2023 y el 07-01-2024, ambos inclusive.
+
+### Resumen del perfil:
+
+*Imprescindible Máster Oficial que habilite para inscribirse en nuestro programa de Doctorado TIC.* En una línea afín al proyecto: ciencia de datos, minería de datos, estadística, computación, etc.
+
+* Experiencia en programación con R.  Se puede valorar también experiencia con Python, Java u otro lenguaje de programación.
+* Experiencia con bases de datos, mejor si están relacionadas con biología, datos ómicos o similar.
+* Interés por desarrollar conceptos y herramientas de investigación reproducible y workflows/pipelines de datos.
+* Es positiva cualquier otra experiencia con datos que aparecerán en el proyecto: análisis de imágenes, datos climáticos, GIS. Imprescindible buen dominio de inglés (lectura/escritura/conversación). 
+* Resumen del proyecto: https://cordis.europa.eu/project/id/101135314
