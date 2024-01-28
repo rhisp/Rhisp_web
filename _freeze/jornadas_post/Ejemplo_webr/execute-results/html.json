@@ -1,0 +1,14 @@
+{
+  "hash": "c2b59d4a7ce98a6b4a477d4e294af4e2",
+  "result": {
+    "markdown": "---\ntitle: Ejemplo webr\ndate: '2023-08-16'\ndate-modified: last-modified\ncategories:\n  - 2023\n  - R\n  - Comunidad\n  - avances\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nfilters:\n  - webr\n---\n\n\nHay nueva tecnología, usar R dentro de la web. Dale a Run Code\n\n```{webr-r}\nfit = lm(mpg ~ am, data = mtcars)\n\nsummary(fit)\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

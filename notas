@@ -1,0 +1,6 @@
+background: "#F9F6F6"
+theme:
+      light: [flatly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+
+

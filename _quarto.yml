@@ -20,11 +20,11 @@ website:
     image: "images/logo_twitter.png"
 
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: |
+      Patrocinado por ![imagen](images/RConsortium_Horizontal_Pantone.png){width=35%}
     left: "Comunidad RHispano"
   
   navbar:
-    background: "#F9F6F6"
     logo: "images/logo_hexagonal.jpeg"
     tools: 
       - icon: github
@@ -67,6 +67,7 @@ format:
   html:
     theme:
       light: [flatly, theme-light.scss]
+     #dark: [darkly, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
     toc: true
