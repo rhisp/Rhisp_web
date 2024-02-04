@@ -1,6 +1,0 @@
----
-title: "Formación"
----
-
-Fichero para formación 
-aquí ir poniendo los posts sobre formación 

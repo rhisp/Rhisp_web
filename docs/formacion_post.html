@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Comunidad R-Hispano">
 
-<title>Comunidad R Hispano - Formación</title>
+<title>Comunidad R Hispano – formacion_post</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,22 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,29 +61,52 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<meta property="og:title" content="Comunidad R Hispano - Formación">
-<meta property="og:description" content="">
-<meta property="og:site-name" content="Comunidad R Hispano">
-<meta name="twitter:title" content="Comunidad R Hispano - Formación">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://rhisp.github.io/Rhisp_web/formacion_post/images/logo_twitter.png">
-<meta name="twitter:creator" content="@R_Hisp">
-<meta name="twitter:card" content="summary_large_image">
-</head>
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-reading-time','listing-description','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
 
-<body class="nav-sidebar floating nav-fixed">
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="alternate" type="application/rss+xml" title="Comunidad R Hispano" href="formacion_post.xml"></head>
+
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/logo_hexagonal.jpeg" alt="" class="navbar-logo">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./images/logo_hexagonal.jpeg" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Comunidad R Hispano</span>
     </a>
   </div>
@@ -93,51 +117,31 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../quienes-somos.html" rel="" target="">
+    <a class="nav-link" href="./quienes-somos.html" rel="" target="">
  <span class="menu-text">QUIÉNES SOMOS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../hazte_socia.html" rel="" target="">
+    <a class="nav-link" href="./hazte_socia.html" rel="" target="">
  <span class="menu-text">HAZTE SOCIO/A</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../Jornadas_post.html" rel="" target="">
+    <a class="nav-link" href="./Jornadas_post.html" rel="" target="">
  <span class="menu-text">JORNADAS</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-empleo" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">EMPLEO</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-empleo">    
-        <li>
-    <a class="dropdown-item" href="../empleo.html" rel="" target="">
- <span class="dropdown-text">Empleo</span></a>
-  </li>  
-        <li><hr class="dropdown-divider"></li>
-        <li class="dropdown-header">Post empleo</li>
-        <li>
-    <a class="dropdown-item" href="../empleo_post/2023/convocatorio_contrato_urjc.html" rel="" target="">
- <span class="dropdown-text">2023</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-formacion" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
- <span class="menu-text">FORMACION</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-formacion">    
-        <li>
-    <a class="dropdown-item" href="../formacion_post/formacion.html" rel="" target="">
- <span class="dropdown-text">Formación</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
-    <a class="nav-link" href="../grupos-locales.html" rel="" target="">
+    <a class="nav-link" href="./Empleo_post.html" rel="" target="">
+ <span class="menu-text">EMPLEO</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="./formacion_post.html" rel="" target="" aria-current="page">
+ <span class="menu-text">FORMACION</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./grupos-locales.html" rel="" target="">
  <span class="menu-text">GRUPOS LOCALES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../blog.html" rel="" target="">
+    <a class="nav-link" href="./blog.html" rel="" target="">
  <span class="menu-text">BLOG</span></a>
   </li>  
 </ul>
@@ -148,68 +152,128 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
-  <nav class="quarto-secondary-nav">
-    <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-        <i class="bi bi-layout-text-sidebar-reverse"></i>
-      </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../formacion_post/formacion.html">Formación</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
-    </div>
-  </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
-  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
-    <div class="sidebar-menu-container"> 
-    <ul class="list-unstyled mt-1">
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../formacion_post/formacion.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Formación</span></a>
-  </div>
-</li>
-    </ul>
-    </div>
-</nav>
-<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="2023">2023 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Formación">Formación <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Formación</h1>
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="2023,Formación" data-listing-date-sort="1694815200000" data-listing-file-modified-sort="1707048378295" data-listing-date-modified-sort="1707048378000" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./formacion_post/2023/septiembre_2023_16.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./formacion_post/2023/septiembre_2023_16.html">
+<h3 class="no-anchor listing-title">
+Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED
+</h3>
+<div class="listing-subtitle">
 
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('2023'); return false;">
+2023
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Formación'); return false;">
+Formación
+</div>
+</div>
+<a href="./formacion_post/2023/septiembre_2023_16.html">
+<div class="listing-description">
+Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./formacion_post/2023/septiembre_2023_16.html">
+<div class="listing-date">
+Sep 16, 2023
+</div>
+<div class="listing-reading-time">
+1 min
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="2023,Formación" data-listing-date-sort="1694556000000" data-listing-file-modified-sort="1707048410487" data-listing-date-modified-sort="1707048410000" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="./formacion_post/2023/septiembre_2023_13.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
+</div>
+<div class="body">
+<a href="./formacion_post/2023/septiembre_2023_13.html">
+<h3 class="no-anchor listing-title">
+Curso Online – Programación y análisis de datos con R - 5ª edición, de la Universidad de Salamanca
+</h3>
+<div class="listing-subtitle">
 
-
-<div class="quarto-title-meta">
-
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Comunidad R-Hispano </p>
-          </div>
-  </div>
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>Fichero para formación aquí ir poniendo los posts sobre formación</p>
-
-
-
-</main> <!-- /main -->
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('2023'); return false;">
+2023
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Formación'); return false;">
+Formación
+</div>
+</div>
+<a href="./formacion_post/2023/septiembre_2023_13.html">
+<div class="listing-description">
+Curso Online – Programación y análisis de datos con R - 5ª edición
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./formacion_post/2023/septiembre_2023_13.html">
+<div class="listing-date">
+Sep 13, 2023
+</div>
+<div class="listing-reading-time">
+1 min
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -508,15 +572,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
-<script src="https://giscus.app/client.js" data-repo="rhisp/blog_comments" data-repo-id="R_kgDOK3qL_w" data-category="General" data-category-id="DIC_kwDOK3qL_84CbnHP" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
-</script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">Comunidad RHispano</div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/rhisp/Rhisp_web/edit/main/formacion_post/formacion.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/rhisp/Rhisp_web/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
+    <div class="toc-actions"><div><i class="bi bi-github"></i></div><div class="action-links"><p><a href="https://github.com/rhisp/Rhisp_web/edit/main/formacion_post.qmd" class="toc-action">Edit this page</a></p><p><a href="https://github.com/rhisp/Rhisp_web/issues/new" class="toc-action">Report an issue</a></p></div></div></div>
     <div class="nav-footer-right">Patrocinado por <img src="images/RConsortium_Horizontal_Pantone.png" class="img-fluid" style="width:35.0%" alt="imagen"></div>
   </div>
 </footer>

@@ -1,0 +1,22 @@
+---
+title: "Curso Online – Programación y análisis de datos con R - 5ª edición, de la Universidad de Salamanca"
+date: '2023-09-13'
+date-modified: last-modified
+categories:
+  - 2023
+  - Formación
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+---
+
+Curso Online – Programación y análisis de datos con R - 5ª edición
+
+La Universidad de Salamanca organiza un curso online de programación y análisis de datos con el software R. El objetivo de este curso es que el alumno aprenda a utilizar R para realizar el análisis de sus datos. Comenzaremos desde cero y no es necesario tener conocimientos previos de programación ni de estadística.   
+**Fechas: del 23 octubre de 2023 al 19 de abril de 2024**
+Actividad acreditada por el departamento de Formación Permanente de la Universidad de Salamanca y por la Comision de Formación continuada de Castilla y León.
+
+Información adicional e inscripciones en: https://cursoRonline.usal.es

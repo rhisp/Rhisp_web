@@ -39,8 +39,10 @@ website:
         href: hazte_socia.qmd 
       - text: JORNADAS
         href: Jornadas_post.qmd
-      - sidebar:empleo
-      - sidebar:formacion
+      - text: EMPLEO
+        href: Empleo_post.qmd
+      - text: FORMACION
+        href: formacion_post.qmd
       - text: GRUPOS LOCALES
         href: grupos-locales.qmd
       - text: BLOG
@@ -57,12 +59,6 @@ website:
         - section: Post empleo
           contents:
             - auto: empleo_post/**/*.qmd
-    - id: formacion
-      title: "FORMACION"
-      style: "docked"
-      collapse-level: 2
-      contents:
-       - auto: formacion_post/*.qmd
 format:
   html:
     theme:

@@ -1,5 +1,8 @@
 ---
 page-layout: full
+format: 
+  html:
+    css: styles.css
 ---
 
 # Web de la comunidad R-Hispano 
@@ -11,3 +14,28 @@ Nos puedes encontrar en [Twitter](https://twitter.com/R_Hisp)
 ## Estatutos
 
 [Link](doc_comunidad/Estatutos-R-es_v2.pdf)
+
+
+## Últimos posts
+
+---
+listing:
+  contents:
+        - "empleo_post/**/*.qmd"
+        - "formacion_post/**/*.qmd"
+        - "jornadas_post/*.qmd"
+  type: grid
+  sort: "date desc"
+  sort-ui: true
+  max-items: 7
+  filter-ui: true
+  fields: [date, title, reading-time, description, categories, image]
+  categories: true
+  feed: true
+  image-placeholder: "images/logo_twitter_small.png"
+page-layout: full
+title-block-banner: true
+page-navigation: true
+---
+
+
