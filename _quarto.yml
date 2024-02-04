@@ -20,11 +20,11 @@ website:
     image: "images/logo_twitter.png"
 
   page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    right: |
+      Patrocinado por ![imagen](images/RConsortium_Horizontal_Pantone.png){width=35%}
     left: "Comunidad RHispano"
   
   navbar:
-    background: "#F9F6F6"
     logo: "images/logo_hexagonal.jpeg"
     tools: 
       - icon: github
@@ -39,8 +39,10 @@ website:
         href: hazte_socia.qmd 
       - text: JORNADAS
         href: Jornadas_post.qmd
-      - sidebar:empleo
-      - sidebar:formacion
+      - text: EMPLEO
+        href: Empleo_post.qmd
+      - text: FORMACION
+        href: formacion_post.qmd
       - text: GRUPOS LOCALES
         href: grupos-locales.qmd
       - text: BLOG
@@ -57,16 +59,11 @@ website:
         - section: Post empleo
           contents:
             - auto: empleo_post/**/*.qmd
-    - id: formacion
-      title: "FORMACION"
-      style: "docked"
-      collapse-level: 2
-      contents:
-       - auto: formacion_post/*.qmd
 format:
   html:
     theme:
       light: [flatly, theme-light.scss]
+     #dark: [darkly, theme-dark.scss]
     code-copy: true
     code-overflow: wrap
     toc: true

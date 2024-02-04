@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Comunidad R Hispano</title>
+<link>https://rhisp.github.io/Rhisp_web/formacion_post.html</link>
+<atom:link href="https://rhisp.github.io/Rhisp_web/formacion_post.xml" rel="self" type="application/rss+xml"/>
+<description>Asociación de usuarios de R de España</description>
+<generator>quarto-1.3.450</generator>
+<lastBuildDate>Fri, 15 Sep 2023 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2023/septiembre_2023_16.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED</p>
+<p>La Facultad de Economía de UNED, uno de nuestros patrocinadores en el grupo R-madRid y en pasadas ediciones de nuestras Jornadas, ha lanzado su última edición del “Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas”. Un programa que no solo es modular, sino que también te brinda la comodidad de ser totalmente online.</p>
+<p>¿Lo mejor de todo? Por ser socio de R-hispano, ¡tienes acceso a un descuento exclusivo!</p>
+<p>Descubre todos los detalles y empieza tu viaje hacia la excelencia en el mundo del Big Data y Data Science aquí: https://www.masterbigdataonline.com/index.php</p>
+
+
+
+ ]]></description>
+  <category>2023</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2023/septiembre_2023_16.html</guid>
+  <pubDate>Fri, 15 Sep 2023 22:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Curso Online – Programación y análisis de datos con R - 5ª edición, de la Universidad de Salamanca</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2023/septiembre_2023_13.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>Curso Online – Programación y análisis de datos con R - 5ª edición</p>
+<p>La Universidad de Salamanca organiza un curso online de programación y análisis de datos con el software R. El objetivo de este curso es que el alumno aprenda a utilizar R para realizar el análisis de sus datos. Comenzaremos desde cero y no es necesario tener conocimientos previos de programación ni de estadística.<br>
+<strong>Fechas: del 23 octubre de 2023 al 19 de abril de 2024</strong> Actividad acreditada por el departamento de Formación Permanente de la Universidad de Salamanca y por la Comision de Formación continuada de Castilla y León.</p>
+<p>Información adicional e inscripciones en: https://cursoRonline.usal.es</p>
+
+
+
+ ]]></description>
+  <category>2023</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2023/septiembre_2023_13.html</guid>
+  <pubDate>Tue, 12 Sep 2023 22:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
