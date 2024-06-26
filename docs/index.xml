@@ -6,11 +6,44 @@
       version="2.0">
 <channel>
 <title>Comunidad R Hispano</title>
-<link>https://rhisp.github.io/Rhisp_web/index.html</link>
+<link>https://rhisp.github.io/Rhisp_web/</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 19 Dec 2023 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.552</generator>
+<lastBuildDate>Tue, 25 Jun 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Máster en Data Science &amp; Business Analytics (con R software) de la UCLM.</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2024/2024-06-26.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Abierto el plazo de inscripción y matrícula del máster en Máster en Data Science &amp; Business Analytics (con R software) de la UCLM. Web: https://blog.uclm.es/tp-mbsba/ Socios de R-Hispano: 10% de bonificación sobre el precio de matrícula.</p>
+<p>Como resumen, las fundamentales del título son:</p>
+<ul>
+<li>📶 Enseñanza on-line 100%.</li>
+<li>📕 Manual elaborado por el 90% del profesorado del máster. Pincha en el enlace y accede a él directamente: Fundamentos de ciencia de datos con R</li>
+</ul>
+<p>🧪⛹️‍♂️👩‍⚕️💉👩‍💻🏀🏭 Masterclasses impartidas por profesionales de reconocido prestigio.</p>
+<ul>
+<li>💶 Formación FUNDAE.</li>
+<li>💰 10% de bonificación sobre el precio de matrícula si te matriculas antes del 31-de julio-2024.</li>
+<li>📈 Aprendizaje y uso intensivo de R para Data Science y Business Analytics.</li>
+<li>👩‍🎓 Posibilidad de obtención de títulos de Experto y Máster convalidando créditos.</li>
+<li>📐 Cursos de Formación Avanzada Universitaria (CUFAs) si no dispones de título universitario.</li>
+</ul>
+<p>Las dudas, a los coordinadores: Gema.faviles@uclm.es y Manuel.vargas@uclm.es</p>
+
+
+
+ ]]></description>
+  <category>2024</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/2024-06-26.html</guid>
+  <pubDate>Tue, 25 Jun 2024 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Convocatoria contrato en URJC</title>
   <dc:creator>Pedro Concejero</dc:creator>
