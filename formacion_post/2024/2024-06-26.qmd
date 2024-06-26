@@ -1,0 +1,34 @@
+---
+title: "Máster en Data Science & Business Analytics (con R software) de la UCLM."
+date: '2024-06-26'
+date-modified: last-modified
+categories:
+  - 2024
+  - Formación
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+---
+
+
+Abierto el plazo de inscripción y matrícula del máster en Máster en Data Science & Business Analytics (con R software) de la UCLM.
+Web: https://blog.uclm.es/tp-mbsba/ 
+Socios de R-Hispano: 10% de bonificación sobre el precio de matrícula.
+ 
+Como resumen, las fundamentales del título son:
+
+*  📶 Enseñanza on-line 100%.
+*  📕  Manual elaborado por el 90% del profesorado del máster. Pincha en el enlace y accede a él directamente: Fundamentos de ciencia de datos con R
+
+🧪⛹️‍♂️👩‍⚕️💉👩‍💻🏀🏭  Masterclasses impartidas por profesionales de reconocido prestigio.
+
+*  💶 Formación FUNDAE.
+*  💰 10% de bonificación sobre el precio de matrícula si te matriculas antes del 31-de julio-2024.
+*  📈 Aprendizaje y uso intensivo de R para Data Science y Business Analytics.
+*  👩‍🎓 Posibilidad de obtención de títulos de Experto y Máster convalidando créditos.
+*  📐 Cursos de Formación Avanzada Universitaria (CUFAs) si no dispones de título universitario.
+ 
+Las dudas, a los coordinadores: Gema.faviles@uclm.es y Manuel.vargas@uclm.es
