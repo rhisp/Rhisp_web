@@ -9,8 +9,27 @@
 <link>https://rhisp.github.io/Rhisp_web/Jornadas_post.html</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/Jornadas_post.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.3.450</generator>
-<lastBuildDate>Tue, 15 Aug 2023 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.552</generator>
+<lastBuildDate>Sun, 15 Sep 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>III Congreso de R y XIV Jornadas de usuarios de R 6-8 Noviembre 2024</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_sevilla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.imus.us.es/congresos/IIIRqueR/">Jornadas de R en Sevilla</a></p>
+
+
+
+ ]]></description>
+  <category>2024</category>
+  <category>Jornadas</category>
+  <guid>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_sevilla.html</guid>
+  <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>II Congreso de R y XIII Jornadas de usuarios de R 15-17 Noviembre 2023</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>

@@ -10,7 +10,26 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Tue, 25 Jun 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sun, 15 Sep 2024 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>III Congreso de R y XIV Jornadas de usuarios de R 6-8 Noviembre 2024</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_sevilla.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.imus.us.es/congresos/IIIRqueR/">Jornadas de R en Sevilla</a></p>
+
+
+
+ ]]></description>
+  <category>2024</category>
+  <category>Jornadas</category>
+  <guid>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_sevilla.html</guid>
+  <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Máster en Data Science &amp; Business Analytics (con R software) de la UCLM.</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
@@ -104,6 +123,7 @@
   <dc:creator>Comunidad R-Hispano</dc:creator>
   <link>https://rhisp.github.io/Rhisp_web/formacion_post/2023/septiembre_2023_13.html</link>
   <description><![CDATA[ 
+
 
 
 
