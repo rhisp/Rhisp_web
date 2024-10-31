@@ -7,20 +7,23 @@ La Comunidad R Hispano es una asociación de pleno derecho constituida el día 1
 Está inscrita en el Registro Nacional de Asociaciones (grupo 1, sección 1, número nacional 599480) desde el 12 de marzo de 2012 y su CIF es el G33993684
 
 ## Objetivos de la Comunidad
+
 Según el artículo quinto de nuestros estatutos, el objetivo de la Comunidad es fomentar el avance del conocimiento y uso del lenguaje de programación en R y el desarrollo de la profesión en todas sus vertientes, especialmente la investigadora, docente y empresarial.
 
 Para ello, la Comunidad organiza conferencias, cursos, sesiones de trabajo, grupos locales de usuarios, etc.
 
 ## ¿Quiénes forman la Comunidad?
+
 La Comunidad la forman sus 706 socios y, de manera más amplia, quienes participan en sus actividades.
 
 La composición de la actual junta directiva es:
 
-* Presidente: [Emilio López Cano](https://www.lcano.com/public/es/)
-* Vicepresidente: [José Luis Cañadas Reche](https://muestrear-no-es-pecado.netlify.app/)
-* Secretaria: Sandra Barragán Andrés
-* Tesorero: [Leonardo Hansa Torres](https://leonardohansa.com/)
-* Vocales:  Pedro Concejero Cerezo, Luz Frías Díaz, Paula López Casado,  Carlos Ortega Fernández, Francisco Javier Ibáñez López
+-   Presidente: [Emilio López Cano](https://www.lcano.com/public/es/)
+-   Vicepresidente: [José Luis Cañadas Reche](https://muestrear-no-es-pecado.netlify.app/)
+-   Secretaria: Sandra Barragán Andrés
+-   Tesorero: [Santiago Mota Herce](https://es.linkedin.com/in/santiagomota)
+-   Vocales: Pedro Concejero Cerezo, [Luz Frías Díaz](https://www.linkedin.com/in/luzfrias), Paula López Casado, Carlos Ortega Fernández, Francisco Javier Ibáñez López, [Leonardo Hansa Torres](https://leonardohansa.com/)
 
-## Estatutos                                       
+## Estatutos
+
 [Link](doc_comunidad/Estatutos-R-es_v2.pdf)
