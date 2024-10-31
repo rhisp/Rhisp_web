@@ -12,7 +12,7 @@ execute:
   warning: false
   echo: true
 format: 
-  html: 
+  live-html: 
     fig-height: 5
     fig-dpi: 300
     fig-width: 9
@@ -23,8 +23,13 @@ knitr:
     fig.showtext: TRUE
     collapse: true
     comment: "#>"
-filters:
-  - webr
+webr:
+  packages:
+    - tidyverse
+    - effects
+    - sjPlot
+  repos:
+    - https://r-lib.r-universe.dev
 ---
 
 Hay nueva tecnología, usar R dentro de la web. Dale a Run Code
@@ -33,4 +38,11 @@ Hay nueva tecnología, usar R dentro de la web. Dale a Run Code
 fit = lm(mpg ~ am, data = mtcars)
 
 summary(fit)
+```
+
+
+
+```{webr-r}
+library(sjPlot)
+sjPlot::plot_model(fit)
 ```
