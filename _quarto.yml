@@ -47,6 +47,8 @@ website:
         href: grupos-locales.qmd
       - text: BLOG
         href: blog.qmd
+      - text: CONTACTO
+        href: contacto.qmd
 
   sidebar:
     - id: ""

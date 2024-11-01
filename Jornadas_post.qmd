@@ -13,3 +13,46 @@ page-layout: full
 title-block-banner: true
 page-navigation: true
 ---
+
+
+\[XIV Jornadas, 2024, Sevilla\](La Comunidad R Hispano organiza anualmente unas jornadas nacionales con el objetivo de proporcionar un punto de encuentro a los usuarios de R, fomentar la colaboración entre ellos en un ambiente multidisciplinar, divulgar el conocimiento del lenguaje y sus posibilidades y promover el uso de R.
+
+-   [XIV Jornadas](https://www.imus.us.es/congresos/IIIRqueR/), 2024, Sevilla
+
+
+-   [XIII Jornadas](https://eventum.upf.edu/101896/detail/ii-congreso-de-r-y-xiii-jornadas-de-usuarios-de-r.html), 2023, Barcelona
+
+
+-   [XII Jornadas](http://r-es.org/12jr/), 2022, Córdoba
+
+
+-   [XI Jornadas](http://r-es.org/11jr/), 2019, Madrid
+
+
+-   [X Jornadas](http://r-es.org/10jr/), 2018, Murcia
+
+
+-   [IX Jornadas](http://r-es.org/09jr/), 2017, Granada
+
+
+-   [VIII Jornadas](http://r-es.org/8jornadasR/), 2016, Albacete
+
+
+-   [VII Jornadas](http://r-es.org/07jr/), 2015, Salamanca
+
+
+-   [VI Jornadas](http://r-es.org/tiki/VI+Jornadas), 2014, Santiago de Compostela
+
+
+-   [V Jornadas](http://r-es.org/tiki/V+Jornadas), 2013, Zaragoza
+
+-   [IV Jornadas](http://r-es.org/tiki/IV+Jornadas), 2012, Barcelona
+
+
+-   [III Jornadas](http://r-es.org/03jr/), 2011, Madrid
+
+-   II Jornadas, 2010, Mieres (Asturias)
+
+-   [I Jornadas](https://tv.um.es/videos?serie=1931), 2009, Murcia
+
+

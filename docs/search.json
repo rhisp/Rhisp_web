@@ -166,5 +166,12 @@
     "title": "III Congreso de R y XIV Jornadas de usuarios de R 6-8 Noviembre 2024",
     "section": "",
     "text": "Jornadas de R en Sevilla"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Contacto",
+    "section": "",
+    "text": "Para cuestiones genéricas sobre esta página, puedes escribir a edicion@r-es.org, aunque si la pregunta se refiere a formación o empleo, puedes hacerlo a las direcciones de correo específicas formacion@r-es.org y empleo@r-es.org.\nSi quieres asociarte a la Comunidad R Hispano, puedes hacerlo rellenando este formulario\nPara otras cuestiones, puedes contactar con alguno de los cargos electos de la Comunidad R Hispano: presidente@r-es.org, vicepresidente@r-es.org, tesorero@r-es.org o secretario@r-es.org."
   }
 ]
