@@ -1,0 +1,14 @@
+{
+  "hash": "53d430360131676a67e1c62e86142975",
+  "result": {
+    "markdown": "---\ntitle: \"Curso Online – Programación y análisis de datos con R - 5ª edición, de la Universidad de Salamanca\"\ndate: '2023-09-13'\ndate-modified: last-modified\ncategories:\n  - 2023\n  - R\n  - Comunidad\n  - Jornadas\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\n---\n\n---\nCurso Online – Programación y análisis de datos con R - 5ª edición\n\nLa Universidad de Salamanca organiza un curso online de programación y análisis de datos con el software R. El objetivo de este curso es que el alumno aprenda a utilizar R para realizar el análisis de sus datos. Comenzaremos desde cero y no es necesario tener conocimientos previos de programación ni de estadística.   \n**Fechas: del 23 octubre de 2023 al 19 de abril de 2024**\nActividad acreditada por el departamento de Formación Permanente de la Universidad de Salamanca y por la Comision de Formación continuada de Castilla y León.\n\nInformación adicional e inscripciones en: https://cursoRonline.usal.es\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

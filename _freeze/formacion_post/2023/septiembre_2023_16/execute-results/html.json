@@ -1,0 +1,14 @@
+{
+  "hash": "60891db867496510b2c5436268930b72",
+  "result": {
+    "markdown": "---\ntitle: \"Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED\"\ndate: '2023-09-16'\ndate-modified: last-modified\ncategories:\n  - 2023\n  - Formación\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\n---\n\n\n\nMáster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED\n\nLa Facultad de Economía de UNED, uno de nuestros patrocinadores en el grupo R-madRid y en pasadas ediciones de nuestras Jornadas, ha lanzado su última edición del \"Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas\". Un programa que no solo es modular, sino que también te brinda la comodidad de ser totalmente online.\n\n¿Lo mejor de todo? Por ser socio de R-hispano, ¡tienes acceso a un descuento exclusivo!\n\nDescubre todos los detalles y empieza tu viaje hacia la excelencia en el mundo del Big Data y Data Science aquí: https://www.masterbigdataonline.com/index.php\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

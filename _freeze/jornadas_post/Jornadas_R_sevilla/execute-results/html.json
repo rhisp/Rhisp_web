@@ -1,0 +1,15 @@
+{
+  "hash": "c3ca2ab929f94f29504e2a88cfe0a1e5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: III Congreso de R y XIV Jornadas de usuarios de R 6-8 Noviembre 2024\ndate: '2024-09-16'\ndate-modified: last-modified\ncategories:\n  - 2024\n  - Jornadas\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nimage: ../../images/sevillaR.png\n---\n\n\n[Jornadas de R en Sevilla](https://www.imus.us.es/congresos/IIIRqueR/)\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

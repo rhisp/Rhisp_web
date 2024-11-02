@@ -29,6 +29,7 @@
   <category>Jornadas</category>
   <guid>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_sevilla.html</guid>
   <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/sevillaR.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>II Congreso de R y XIII Jornadas de usuarios de R 15-17 Noviembre 2023</title>
@@ -57,6 +58,7 @@
   <category>Jornadas</category>
   <guid>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_Barcelona.html</guid>
   <pubDate>Tue, 15 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/meeting.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

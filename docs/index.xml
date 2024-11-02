@@ -29,6 +29,7 @@
   <category>Jornadas</category>
   <guid>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_sevilla.html</guid>
   <pubDate>Sun, 15 Sep 2024 22:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/sevillaR.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Máster en Data Science &amp; Business Analytics (con R software) de la UCLM.</title>
@@ -97,6 +98,7 @@
   <category>Empleo</category>
   <guid>https://rhisp.github.io/Rhisp_web/empleo_post/2023/convocatorio_contrato_urjc.html</guid>
   <pubDate>Tue, 19 Dec 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/job.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
   <title>Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED</title>
@@ -170,6 +172,7 @@
   <category>Jornadas</category>
   <guid>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_Barcelona.html</guid>
   <pubDate>Tue, 15 Aug 2023 22:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/meeting.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>
