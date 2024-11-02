@@ -11,8 +11,8 @@ format:
     fig-dpi: 300
     fig-width: 8.88
     fig-align: center
+image: ../../images/formacion.png
 ---
-
 
 Máster en BigData y Data Science aplicado a la Economía y Dirección de Empresas de la UNED
 
