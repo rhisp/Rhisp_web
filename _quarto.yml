@@ -49,6 +49,8 @@ website:
         href: blog.qmd
       - text: CONTACTO
         href: contacto.qmd
+      - text: ENLACES
+        href: enlaces.qmd
 
   sidebar:
     - id: ""

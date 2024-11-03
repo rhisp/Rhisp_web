@@ -1,0 +1,13 @@
+---
+title: "Enlaces"
+---
+
+
+## Recursos en castellano
+
+### Libros
+
+* [R para Ciencia de Datos](https://es.r4ds.hadley.nz/)
+* [Fundamentos de ciencia de datos](https://cdr-book.github.io/index.html)
+* [Estadística Aplicada a las Ciencias y a la ingeniería](https://emilopezcano.github.io/estadistica-ciencias-ingenieria/index.html)
+* [Introducción al software estadístico R ](https://www.lcano.com/b/iser/_book/)
