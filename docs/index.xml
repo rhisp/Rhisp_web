@@ -10,7 +10,33 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.4.552</generator>
-<lastBuildDate>Sun, 15 Sep 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 11 Nov 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Oferta empleo en 40db</title>
+  <dc:creator>José Luis Cañadas Reche</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/empleo_post/2024/empleo_40db.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Como parte de nuestra labor es divulgar ofertas de empleo. Hemos visto esta oferta en linkedin.</p>
+<p><a href="https://www.linkedin.com/posts/40db_buscamos-incorporar-a-40db-agencia-de-investigaci%C3%B3n-activity-7261702385650049024-STfd/">40db oferta</a></p>
+<p>La descripción es:</p>
+<p>Buscamos incorporar a 40dB., agencia de investigación social y de mercado, una persona con perfil de investigación cuantitativa y experiencia laboral.</p>
+<p>Si quieres formar parte de una empresa pionera, dinámica e inclusiva, con un equipo excepcional (acogedor, vivo y muy cualificado), escríbenos a info@40db.es</p>
+<p>Qué perfil buscamos: ▪ Dominio de R ▪ Fluidez en técnicas cuantitativas avanzadas ▪ Buena capacidad de expresión oral y escrita ▪ Capacidad analítica ▪ Capacidad resolutiva, sentido común, alta empatía ▪ Nivel alto de inglés (hablado y escrito)</p>
+<p>Trabajar en 40dB.: ▪ Contrato indefinido desde el primer día ▪ Trabajo híbrido y horario flexible ▪ 25 días de vacaciones+ 5 días de asuntos propios+ día libre por cumpleaños ▪ Seguro médico privado con cobertura completa y seguro dental básico al cumplir un año en 40Db. ▪ Tarjeta transporte para desplazamientos a la oficina ▪ Regalos de navidad y cumpleaños ▪ Viste como quieras y te sientas cómodo/a ▪ Apoyamos y promovemos formación continua/planes de carrera ▪ Oficina en un lugar mágico del centro de Madrid</p>
+
+
+
+ ]]></description>
+  <category>2023</category>
+  <category>Empleo</category>
+  <guid>https://rhisp.github.io/Rhisp_web/empleo_post/2024/empleo_40db.html</guid>
+  <pubDate>Mon, 11 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/job.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>III Congreso de R y XIV Jornadas de usuarios de R 6-8 Noviembre 2024</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>

@@ -1,0 +1,56 @@
+---
+title: "Oferta empleo en 40db"
+author: "José Luis Cañadas Reche"
+date: '2024-11-12'
+date-modified: last-modified
+categories:
+  - 2023
+  - Empleo
+execute: 
+  message: false
+  warning: false
+  echo: true
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+knitr:
+  opts_chunk:
+    out.width: 80%
+    fig.showtext: TRUE
+    collapse: true
+    comment: "#>"
+image: ../../images/job.png
+---
+
+Como parte de nuestra labor es divulgar ofertas de empleo. 
+Hemos visto esta oferta en linkedin. 
+
+[40db oferta](https://www.linkedin.com/posts/40db_buscamos-incorporar-a-40db-agencia-de-investigaci%C3%B3n-activity-7261702385650049024-STfd/)
+
+La descripción es:
+
+Buscamos incorporar a 40dB.,  agencia de investigación social y de mercado, una persona con perfil de investigación cuantitativa y experiencia laboral. 
+
+Si quieres formar parte de una empresa pionera, dinámica e inclusiva, con un equipo excepcional (acogedor, vivo y muy cualificado), escríbenos a info@40db.es
+
+Qué perfil buscamos:
+▪ Dominio de R
+▪ Fluidez en técnicas cuantitativas avanzadas
+▪ Buena capacidad de expresión oral y escrita
+▪ Capacidad analítica
+▪ Capacidad resolutiva, sentido común, alta empatía 
+▪ Nivel alto de inglés (hablado y escrito)
+
+Trabajar en 40dB.:
+▪ Contrato indefinido desde el primer día
+▪ Trabajo híbrido y horario flexible
+▪ 25 días de vacaciones+ 5 días de asuntos propios+ día libre por cumpleaños
+▪ Seguro médico privado con cobertura completa y seguro dental básico al cumplir un año en 40Db.
+▪ Tarjeta transporte para desplazamientos a la oficina
+▪ Regalos de navidad y cumpleaños
+▪ Viste como quieras y te sientas cómodo/a
+▪ Apoyamos y promovemos formación continua/planes de carrera
+▪ Oficina en un lugar mágico del centro de Madrid
