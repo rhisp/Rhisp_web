@@ -90,7 +90,7 @@
     "href": "Empleo_post.html",
     "title": "Comunidad R Hispano",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nOferta empleo en 40db\n\n\n\n\n\n\n2023\n\n\nEmpleo\n\n\n\n\n\n\n\n\n\nNov 12, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nConvocatoria contrato en URJC\n\n\n\n\n\n\n2023\n\n\nEmpleo\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nTest oferta empleo, borrar\n\n\n\n\n\n\n2023\n\n\nEmpleo\n\n\n\n\n\n\n\n\n\nNov 13, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nOferta empleo en 40db\n\n\n\n\n\n\n2023\n\n\nEmpleo\n\n\n\n\n\n\n\n\n\nNov 12, 2024\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nConvocatoria contrato en URJC\n\n\n\n\n\n\n2023\n\n\nEmpleo\n\n\n\n\n\n\n\n\n\nDec 20, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Jornadas_post.html",
@@ -205,6 +205,18 @@
       "Post empleo",
       "2024",
       "Oferta empleo en 40db"
+    ]
+  },
+  {
+    "objectID": "empleo_post/2024/empleo_bolivia.html",
+    "href": "empleo_post/2024/empleo_bolivia.html",
+    "title": "Test oferta empleo, borrar",
+    "section": "",
+    "text": "Oferta “fake” de empleo en Bolivia, no es real.",
+    "crumbs": [
+      "Post empleo",
+      "2024",
+      "Test oferta empleo, borrar"
     ]
   }
 ]
