@@ -1,0 +1,36 @@
+---
+title: "Oferta empleo en Barcelona Supercomputing Center"
+author: "Pedro Concejero"
+date: '2024-11-18'
+date-modified: last-modified
+categories:
+  - 2024
+  - Empleo
+execute: 
+  message: false
+  warning: false
+  echo: true
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+knitr:
+  opts_chunk:
+    out.width: 80%
+    fig.showtext: TRUE
+    collapse: true
+    comment: "#>"
+image: ../../images/job.png
+---
+
+Como parte de nuestra labor es divulgar ofertas de empleo, y esta resulta especialmente interesante, 158 becas de 4 años (!). 
+
+[BSC AI4Science Fellowships (AI4S)](https://www.bsc.es/join-us/excellence-career-opportunities/ai4s)
+
+Tomado de esta página (originalmente en inglés):
+
+"Through this program, the BSC-CNS will offer 158 four-year fellowships to highly qualified scientific and research personnel, providing them with all the necessary tools to develop their potential, deepen their skills and knowledge in a stimulating, international, and interdisciplinary environment. Fellows will also have access to a wide range of courses, in collaboration with various units of the center, to facilitate high-quality research and the acquisition of technical, personal, leadership, communication, and team management skills."
+
+Hacia la mitad de la página encontraréis los perfiles que se buscan.
