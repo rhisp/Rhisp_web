@@ -1,0 +1,15 @@
+{
+  "hash": "8cab9df10d7afb0ba7f66cd2e36d1bae",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Test oferta empleo, borrar\"\nauthor: \"Fernando Silva\"\ndate: '2024-11-13'\ndate-modified: last-modified\ncategories:\n  - 2023\n  - Empleo\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nimage: ../../images/job.png\n---\n\n\n\n\n\nOferta  \"fake\" de empleo en Bolivia, no es real.",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

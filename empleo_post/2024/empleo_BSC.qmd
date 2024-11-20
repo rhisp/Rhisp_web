@@ -25,7 +25,7 @@ knitr:
 image: ../../images/job.png
 ---
 
-Como parte de nuestra labor es divulgar ofertas de empleo, y esta resulta especialmente interesante, 158 becas de 4 años (!). 
+Como parte de nuestra labor es divulgar ofertas de empleo, y esta resulta especialmente interesante, 158 becas de 4 años (!).
 
 [BSC AI4Science Fellowships (AI4S)](https://www.bsc.es/join-us/excellence-career-opportunities/ai4s)
 
