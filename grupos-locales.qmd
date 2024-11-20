@@ -2,23 +2,22 @@
 title: "Grupos locales"
 ---
 
-
 La Comunidad R Hispano quiere apoyar las reuniones de grupos locales de usuarios de R en España. Por el momento, existen los siguientes:
 
 ## Grupos locales
 
-* Almería ([blog](https://almeriarusers.wordpress.com/), [twitter](https://twitter.com/AlmeriaRUsers))
-* Asturias ([twitter](https://twitter.com/grupoRasturias))
-* Barcelona ([blog](https://www.barcelonar.org/), [meetup](http://www.meetup.com/RugBcn-Barcelona-R-users-group/))
-* Canarias ([blog](http://canarias.r-es.org/), [twitter]https://twitter.com/canarias_r)
-* Castilla-la-Mancha (R Quixote) ([blog](http://quixote.r-es.org/), [twitter](https://twitter.com/quixote_r))
-* Córdoba ([twitter](https://mobile.twitter.com/cordousers))
-* Galicia ([portal](https://www.r-users.gal/), [twitter](https://twitter.com/R_usersGal))
-* Málaga ([blog](https://malagarusers.netlify.app/), [twitter](https://twitter.com/_RMlg))
-* Madrid ([blog](http://madrid.r-es.org/), [meetup](http://www.meetup.com/Grupo-de-Usuarios-de-R-de-Madrid/))
-* Murcia ([portal](http://gauss.inf.um.es/umur/), [twitter](https://twitter.com/UMUR_Murcia))
-* Salamanca ([portal](http://salamanca.r-es.org/))
-* Sevilla ([blog](https://sevillarusers.netlify.com/), [meetup](https://www.meetup.com/es-ES/Sevilla-R-users/),[twitter](https://twitter.com/_SevillaR))
-* Valencia ([blog](https://valenciarusers.wordpress.com/), [twitter](https://twitter.com/ValenciaRUsers), [slideshare](https://www.slideshare.net/valenciaRusers))
+-   Almería ([blog](https://almeriarusers.wordpress.com/), [twitter](https://twitter.com/AlmeriaRUsers))
+-   Asturias ([twitter](https://twitter.com/grupoRasturias))
+-   Barcelona ([blog](https://www.barcelonar.org/), [meetup](http://www.meetup.com/RugBcn-Barcelona-R-users-group/))
+-   Canarias ([blog](http://canarias.r-es.org/), \[twitter\]https://twitter.com/canarias_r)
+-   Castilla-la-Mancha (R Quixote) ([twitter](https://twitter.com/quixote_r))
+-   Córdoba ([twitter](https://mobile.twitter.com/cordousers))
+-   Galicia ([portal](https://www.r-users.gal/), [twitter](https://twitter.com/R_usersGal))
+-   Málaga ([blog](https://malagarusers.netlify.app/), [twitter](https://twitter.com/_RMlg))
+-   Madrid ([blog](http://madrid.r-es.org/), [meetup](http://www.meetup.com/Grupo-de-Usuarios-de-R-de-Madrid/))
+-   Murcia ([twitter](https://twitter.com/UMUR_Murcia))
+-   Salamanca ([portal](http://salamanca.r-es.org/))
+-   Sevilla ([blog](https://sevillarusers.netlify.app/), [meetup](https://www.meetup.com/es-ES/Sevilla-R-users/),[twitter](https://twitter.com/_SevillaR))
+-   Valencia ([blog](https://valenciarusers.wordpress.com/), [twitter](https://twitter.com/ValenciaRUsers), [slideshare](https://www.slideshare.net/valenciaRusers))
 
 Si conoces o quieres formar otro grupo y darlo a conocer en este página, ponte en contacto con nosotros.
