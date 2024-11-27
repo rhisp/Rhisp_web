@@ -10,7 +10,31 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/formacion_post.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Tue, 25 Jun 2024 22:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 26 Nov 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Grupo R Málaga retoma sus actividades!</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2024/grupo_R_Malaga_2024-11-27.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>El grupo R de Málaga retoma su actividad de charlas, talleres, conferencias, etc. en diciembre.</p>
+<p>Con sus propias palabras:</p>
+<p>Comenzamos con dos cosas importantes</p>
+<p>- cuenta en Linkedin - <a href="https://www.linkedin.com/in/rmalaga-grupo-de-usuarios-de-r-69492b33a/" class="uri">https://www.linkedin.com/in/rmalaga-grupo-de-usuarios-de-r-69492b33a/</a></p>
+<p>- cuenta en Bluesky - seguidnos por favor <a href="https://bsky.app/profile/rmalaga.bsky.social" class="uri">https://bsky.app/profile/rmalaga.bsky.social</a></p>
+
+
+
+ ]]></description>
+  <category>2024</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/grupo_R_Malaga_2024-11-27.html</guid>
+  <pubDate>Tue, 26 Nov 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Máster en Data Science &amp; Business Analytics (con R software) de la UCLM.</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
