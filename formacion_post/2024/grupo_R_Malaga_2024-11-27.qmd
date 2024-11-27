@@ -1,0 +1,25 @@
+---
+title: "Grupo R Málaga retoma sus actividades!"
+date: '2024-11-27'
+date-modified: last-modified
+categories:
+  - 2024
+  - Formación
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+image: ../../images/formacion.png
+---
+
+El grupo R de Málaga retoma su actividad de charlas, talleres, conferencias, etc. en diciembre.
+
+Con sus propias palabras:
+
+Comenzamos con dos cosas importantes
+
+\- cuenta en Linkedin - <https://www.linkedin.com/in/rmalaga-grupo-de-usuarios-de-r-69492b33a/>
+
+\- cuenta en Bluesky - seguidnos por favor <https://bsky.app/profile/rmalaga.bsky.social>
