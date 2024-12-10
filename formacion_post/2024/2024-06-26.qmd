@@ -3,7 +3,7 @@ title: "Máster en Data Science & Business Analytics (con R software) de la UCLM
 date: '2024-06-26'
 date-modified: last-modified
 categories:
-  - 2024
+  - "2024"
   - Formación
 format: 
   html: 

@@ -4,7 +4,7 @@ author: "José Luis Cañadas Reche"
 date: '2024-11-12'
 date-modified: last-modified
 categories:
-  - 2023
+  - "2023"
   - Empleo
 execute: 
   message: false

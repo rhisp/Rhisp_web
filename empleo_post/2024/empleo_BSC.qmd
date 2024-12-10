@@ -4,7 +4,7 @@ author: "Pedro Concejero"
 date: '2024-11-18'
 date-modified: last-modified
 categories:
-  - 2024
+  - "2024"
   - Empleo
 execute: 
   message: false

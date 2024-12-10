@@ -9,7 +9,7 @@
 <link>https://rhisp.github.io/Rhisp_web/Empleo_post.html</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/Empleo_post.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.5.57</generator>
+<generator>quarto-1.6.39</generator>
 <lastBuildDate>Sun, 17 Nov 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Oferta empleo en Barcelona Supercomputing Center</title>
@@ -33,26 +33,6 @@
   <category>Empleo</category>
   <guid>https://rhisp.github.io/Rhisp_web/empleo_post/2024/empleo_BSC.html</guid>
   <pubDate>Sun, 17 Nov 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://rhisp.github.io/Rhisp_web/images/job.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Test oferta empleo, borrar</title>
-  <dc:creator>Fernando Silva</dc:creator>
-  <link>https://rhisp.github.io/Rhisp_web/empleo_post/2024/empleo_bolivia.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>Oferta “fake” de empleo en Bolivia, no es real.</p>
-
-
-
- ]]></description>
-  <category>2023</category>
-  <category>Empleo</category>
-  <guid>https://rhisp.github.io/Rhisp_web/empleo_post/2024/empleo_bolivia.html</guid>
-  <pubDate>Tue, 12 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://rhisp.github.io/Rhisp_web/images/job.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>

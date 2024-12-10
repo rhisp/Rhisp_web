@@ -3,7 +3,7 @@ title: "Curso Online – Programación y análisis de datos con R - 5ª edición
 date: '2023-09-13'
 date-modified: last-modified
 categories:
-  - 2023
+  - "2023"
   - Formación
 format: 
   html: 

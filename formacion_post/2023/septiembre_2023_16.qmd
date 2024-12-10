@@ -3,7 +3,7 @@ title: "Máster en BigData y Data Science aplicado a la Economía y Dirección d
 date: '2023-09-16'
 date-modified: last-modified
 categories:
-  - 2023
+  - "2023"
   - Formación
 format: 
   html: 
