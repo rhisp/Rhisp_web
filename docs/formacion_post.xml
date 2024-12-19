@@ -9,8 +9,45 @@
 <link>https://rhisp.github.io/Rhisp_web/formacion_post.html</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/formacion_post.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 28 Nov 2024 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Wed, 18 Dec 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Estadística Aplicada con R</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2024/UAM_Estadistica_Aplicada_con_R.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Jesús Herranz, ilustre eRReRo, nos envía la siguiente convocatoria de cursos:</p>
+<p>La Facultad de Ciencias de la Universidad Autónoma de Madrid (UAM), en colaboración con los Departamentos de Bioestadística de GEICAM y del Instituto IMDEA Alimentación, organiza la 6º Edición del programa de formación continua en “Estadística Aplicada con R” que se va a impartir en Madrid en 2025 de forma presencial.</p>
+<p>El programa está compuesto por 10 módulos que pueden ser cursados de forma independiente. A destacar que este año hemos incorporado 2 nuevos módulos, “Análisis de Datos Funcionales con R” y “Análisis Estadístico de Redes con R”, con la intención de ampliar nuestra oferta formativa; y por otro lado, el contenido de todos los demás módulos ha sido actualizado, desde la anterior edición.</p>
+<p>Módulos y Fechas 2025</p>
+<p>1. Introducción a R (Opción A) : 24, 25, 26 Marzo<br>
+1. Introducción a R (Opción B) : 31 Marzo, 1, 2 Abril<br>
+2. Visualización Interactiva de Datos con el paquete Shiny: 8, 9 Abril<br>
+3. Métodos de Regresión y Análisis Multivariante con R : 22, 23, 24 Abril<br>
+4. Métodos de Regresión Avanzados Investigación en Ciencias Naturales con R : 6, 7, 8 Mayo<br>
+5. Estadística Aplicada a la Investigación Biomédica con R : 19, 20, 21 Mayo<br>
+6. Modelos Mixtos con R : 27, 28, 29 Mayo<br>
+7. Machine Learning con R y tidymodels : 2, 3, 4, 5, 6 Junio<br>
+8. Deep Learning con R : 9, 10, 11 Junio<br>
+9. Análisis de Datos Funcionales con R : 17, 18 Junio<br>
+10. Análisis Estadístico de Redes con R : 23, 24 Junio</p>
+<p>Todos los módulos se impartirán en la Facultad de Ciencias de la UAM.</p>
+<p>Si quieres obtener más información, lo puedes hacer en la siguiente página, donde también podrás formalizar la matrícula: <a href="https://tinyurl.com/4r9972tx" class="uri">https://tinyurl.com/4r9972tx</a></p>
+<p>Si deseas tener un PDF con el temario detallado, lo puedes obtener dentro de la página anterior o directamente en este link: <a href="https://tinyurl.com/yey89bma" class="uri">https://tinyurl.com/yey89bma</a></p>
+
+
+
+ ]]></description>
+  <category>2024</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/UAM_Estadistica_Aplicada_con_R.html</guid>
+  <pubDate>Wed, 18 Dec 2024 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Master BigData y Data Science UNED</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
