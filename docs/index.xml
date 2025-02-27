@@ -10,7 +10,32 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Wed, 18 Dec 2024 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Concurso Visualización R Asturias</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2024/Concurso_viz_Asturias_2025-02-27.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>El grupo local R de Asturias (<a href="https://twitter.com/grupoRasturias" class="uri">https://twitter.com/grupoRasturias</a>) ha lanzado un reto de visualización con R, en realidad un concurso, ¡la 4ª edición!. Extraído de su web:</p>
+<p>The price amount is <strong>three hundred euros (300 €)</strong> for the first prize and <strong>one hundred euros (100 €)</strong> for the second prize.</p>
+<p>La visualización y en general el proceso se debe hacer con R y con una tabla de datos concreta: <code>school</code> database del paquete <code>collegeScorecard</code> .</p>
+<p>Aquí podéis encontrar todas las reglas para participar en el concurso. IMPORTANTE: SE DEBE ENTREGAR LA ENTRADA EN CONCURSO DURANTE MARZO 2025, el concurso se fallará en Abril 2025:</p>
+<p><a href="https://github.com/grupoRasturias/dataviz-contest-2025/blob/main/bases_es.md" class="uri">https://github.com/grupoRasturias/dataviz-contest-2025/blob/main/bases_es.md</a></p>
+<p>Animamos a la comunidad a participar en este interesantísimo reto.</p>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/Concurso_viz_Asturias_2025-02-27.html</guid>
+  <pubDate>Wed, 26 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Estadística Aplicada con R</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
@@ -46,31 +71,6 @@
   <category>Formación</category>
   <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/UAM_Estadistica_Aplicada_con_R.html</guid>
   <pubDate>Wed, 18 Dec 2024 23:00:00 GMT</pubDate>
-  <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
-</item>
-<item>
-  <title>Master BigData y Data Science UNED</title>
-  <dc:creator>Comunidad R-Hispano</dc:creator>
-  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2024/Concurso_viz_Asturias_2025-02-27.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p>El grupo local R de Asturias (<a href="https://twitter.com/grupoRasturias" class="uri">https://twitter.com/grupoRasturias</a>) ha lanzado un reto de visualización con R, en realidad un concurso, ¡la 4ª edición!. Extraído de su web:</p>
-<p>The price amount is <strong>three hundred euros (300 €)</strong> for the first prize and <strong>one hundred euros (100 €)</strong> for the second prize.</p>
-<p>La visualización y en general el proceso se debe hacer con R y con una tabla de datos concreta: <code>school</code> database del paquete <code>collegeScorecard</code> .</p>
-<p>Aquí podéis encontrar todas las reglas para participar en el concurso. IMPORTANTE: SE DEBE ENTREGAR LA ENTRADA EN CONCURSO DURANTE MARZO 2025, el concurso se fallará en Abril 2025:</p>
-<p><a href="https://github.com/grupoRasturias/dataviz-contest-2025/blob/main/bases_es.md" class="uri">https://github.com/grupoRasturias/dataviz-contest-2025/blob/main/bases_es.md</a></p>
-<p>Animamos a la comunidad a participar en este interesantísimo reto.</p>
-
-
-
- ]]></description>
-  <category>2025</category>
-  <category>Formación</category>
-  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/Concurso_viz_Asturias_2025-02-27.html</guid>
-  <pubDate>Thu, 28 Nov 2024 23:00:00 GMT</pubDate>
   <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>

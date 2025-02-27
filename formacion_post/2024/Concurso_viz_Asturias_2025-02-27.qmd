@@ -1,6 +1,6 @@
 ---
-title: "Master BigData y Data Science UNED"
-date: '2024-11-29'
+title: "Concurso Visualización R Asturias"
+date: '2025-02-27'
 date-modified: last-modified
 categories:
   - "2025"
