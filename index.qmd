@@ -5,16 +5,13 @@ format:
     css: styles.css
 ---
 
-# Web de la comunidad R-Hispano 
-
-
+# Web de la comunidad R-Hispano
 
 Nos puedes encontrar en [Twitter](https://twitter.com/R_Hisp)
 
 ## Estatutos
 
 [Link](doc_comunidad/Estatutos-R-es_v2.pdf)
-
 
 ## Últimos posts
 
@@ -37,5 +34,3 @@ page-layout: full
 title-block-banner: true
 page-navigation: true
 ---
-
-
