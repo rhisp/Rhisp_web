@@ -9,12 +9,12 @@
 <link>https://rhisp.github.io/Rhisp_web/</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.5.57</generator>
+<generator>quarto-1.6.39</generator>
 <lastBuildDate>Wed, 26 Feb 2025 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Concurso Visualización R Asturias</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
-  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2024/Concurso_viz_Asturias_2025-02-27.html</link>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2025/Concurso_viz_Asturias_2025-02-27.html</link>
   <description><![CDATA[ 
 
 
@@ -32,7 +32,7 @@
  ]]></description>
   <category>2025</category>
   <category>Formación</category>
-  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/Concurso_viz_Asturias_2025-02-27.html</guid>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2025/Concurso_viz_Asturias_2025-02-27.html</guid>
   <pubDate>Wed, 26 Feb 2025 23:00:00 GMT</pubDate>
   <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
