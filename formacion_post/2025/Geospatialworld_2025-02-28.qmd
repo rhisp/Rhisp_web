@@ -1,0 +1,23 @@
+---
+title: "Geospatialworld este año es en Madrid"
+date: '2025-02-28'
+date-modified: last-modified
+categories:
+  - "2025"
+  - Formación
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+image: ../../images/formacion.png
+---
+
+Para los que os dedicáis al mundo de visualización o análisis geográfico, resulta interesante que este congreso tan especializado se desarrolle este año (22-25 de abril) en Madrid:
+
+<https://geospatialworld.net/gwf/2025/index.php>
+
+El programa técnico (que incluye ciencia de datos) todavía no está publicado, pero se podrá encontrar aquí:
+
+<https://geospatialworld.net/gwf/2025/index.php>

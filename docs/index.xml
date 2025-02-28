@@ -9,8 +9,31 @@
 <link>https://rhisp.github.io/Rhisp_web/</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 26 Feb 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Thu, 27 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Geospatialworld este año es en Madrid</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2025/Geospatialworld_2025-02-28.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Para los que os dedicáis al mundo de visualización o análisis geográfico, resulta interesante que este congreso tan especializado se desarrolle este año (22-25 de abril) en Madrid:</p>
+<p><a href="https://geospatialworld.net/gwf/2025/index.php" class="uri">https://geospatialworld.net/gwf/2025/index.php</a></p>
+<p>El programa técnico (que incluye ciencia de datos) todavía no está publicado, pero se podrá encontrar aquí:</p>
+<p><a href="https://geospatialworld.net/gwf/2025/index.php" class="uri">https://geospatialworld.net/gwf/2025/index.php</a></p>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2025/Geospatialworld_2025-02-28.html</guid>
+  <pubDate>Thu, 27 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Concurso Visualización R Asturias</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
