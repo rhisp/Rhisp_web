@@ -10,7 +10,31 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 27 Feb 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Feb 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>IA en R</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/blog/IA_en_R.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://www.linkedin.com/in/cnbrownlie/">Chris Brownlie</a> publica todas las semanas en Linkedin su <a href="https://www.linkedin.com/pulse/week-r-2025-02-21-chris-brownlie-z6kwe/?trackingId=aT6emjD%2FvlfehrI%2BBBlZ1Q%3D%3D"><em>This Week in R</em></a></p>
+<p>Hace poco contaba sobre cosas de IA en R, y compartía enlace a un libro escrito en Quarto (cómo no) llamado <a href="https://luisdva.github.io/llmsr-book/">Large Language Model tools for R</a>.</p>
+<p>Tiene buena pinta y en la sección de <a href="https://luisdva.github.io/llmsr-book/r-pkgs.html">R packages</a> pódeis encontrar auténticas joyas como <code>ellmer</code>, <code>mall</code>, <code>gander</code>, <code>ollamar</code>, <code>gemini.R</code> o <code>ragnar</code>.</p>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>R</category>
+  <category>Inteligencia Artificial</category>
+  <category>avances</category>
+  <guid>https://rhisp.github.io/Rhisp_web/blog/IA_en_R.html</guid>
+  <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/R_IA.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>Geospatialworld este año es en Madrid</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
@@ -245,6 +269,32 @@
   <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2024/2024-06-26.html</guid>
   <pubDate>Tue, 25 Jun 2024 22:00:00 GMT</pubDate>
   <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Ejemplo webr</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/blog/Ejemplo_webr.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Hay nueva tecnología, usar R dentro de la web. Dale a Run Code</p>
+<pre class="{webr-r}"><code>fit = lm(mpg ~ am, data = mtcars)
+
+summary(fit)</code></pre>
+<pre class="{webr-r}"><code>library(sjPlot)
+sjPlot::plot_model(fit)</code></pre>
+
+
+
+ ]]></description>
+  <category>2023</category>
+  <category>R</category>
+  <category>Comunidad</category>
+  <category>avances</category>
+  <guid>https://rhisp.github.io/Rhisp_web/blog/Ejemplo_webr.html</guid>
+  <pubDate>Fri, 22 Dec 2023 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Convocatoria contrato en URJC</title>

@@ -18,6 +18,7 @@ Nos puedes encontrar en [Twitter](https://twitter.com/R_Hisp)
 ---
 listing:
   contents:
+        - "blog/**/*.qmd"
         - "empleo_post/**/*.qmd"
         - "formacion_post/**/*.qmd"
         - "jornadas_post/*.qmd"
