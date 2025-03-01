@@ -76,7 +76,7 @@
     "href": "blog.html",
     "title": "Comunidad R Hispano",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nEjemplo webr\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\navances\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIA en R\n\n\n\n\n\n\n2025\n\n\nR\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nEjemplo webr\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\navances\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "jornadas_post/Jornadas_R_Barcelona.html",
@@ -272,5 +272,12 @@
     "title": "Geospatialworld este año es en Madrid",
     "section": "",
     "text": "Para los que os dedicáis al mundo de visualización o análisis geográfico, resulta interesante que este congreso tan especializado se desarrolle este año (22-25 de abril) en Madrid:\nhttps://geospatialworld.net/gwf/2025/index.php\nEl programa técnico (que incluye ciencia de datos) todavía no está publicado, pero se podrá encontrar aquí:\nhttps://geospatialworld.net/gwf/2025/index.php"
+  },
+  {
+    "objectID": "blog/IA_en_R.html",
+    "href": "blog/IA_en_R.html",
+    "title": "IA en R",
+    "section": "",
+    "text": "Chris Brownlie publica todas las semanas en Linkedin su This Week in R\nHace poco contaba sobre cosas de IA en R, y compartía enlace a un libro escrito en Quarto (cómo no) llamado Large Language Model tools for R.\nTiene buena pinta y en la sección de R packages pódeis encontrar auténticas joyas como ellmer, mall, gander, ollamar, gemini.R o ragnar."
   }
 ]
