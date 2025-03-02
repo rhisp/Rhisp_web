@@ -1,0 +1,48 @@
+---
+title: R for the Rest of Us
+date: '2025-03-02'
+date-modified: last-modified
+categories:
+  - "2025"
+  - R
+  - Comunidad
+  - podcast
+  - Inteligencia Artificial
+  - avances
+execute: 
+  message: false
+  warning: false
+  echo: true
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+knitr:
+  opts_chunk:
+    out.width: 80%
+    fig.showtext: TRUE
+    collapse: true
+    comment: "#>"
+image: ../../images/R_IA.webp
+---
+
+Hoy quiero dar publicidad a un canal de youtube y podcast muy interesante. Se llama [R for the Rest of Us](https://www.youtube.com/@rfortherestofus). 
+
+Su fundador, [David Keyes](https://www.linkedin.com/in/dgkeyes/) charla con gente muy diversa sobre cosas que se pueden hacer con R. 
+
+Algunos episodios 
+
+* [Automation R Workflows with IA](https://www.youtube.com/watch?v=-YiRWFXNDmk&t=372s). Charla con [Simon P. Couch](https://www.linkedin.com/in/simonpcouch/) ingeniero en Posit  creador del paquete [`gander`](https://simonpcouch.github.io/gander/articles/gander.html)
+
+* [A step-by-step guide to parameterized reporting in R using Quarto](https://www.youtube.com/watch?v=7dkufBboMi4)
+
+* [Will Landau on Using {targets} to Manage Reproducible Analysis Pipelines in R](https://www.youtube.com/watch?v=Iv6IZwYacXg)
+
+
+Y muchos más. Hay muchas joyas sorprendentes en este canal. 
+
+
+* 
+

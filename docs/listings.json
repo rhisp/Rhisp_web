@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/R_for_the_rest_of_us.html",
       "/blog/IA_en_R.html",
       "/blog/Ejemplo_webr.html"
     ]
@@ -24,6 +25,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/R_for_the_rest_of_us.html",
       "/blog/IA_en_R.html",
       "/formacion_post/2025/Geospatialworld_2025-02-28.html",
       "/formacion_post/2025/Concurso_viz_Asturias_2025-02-27.html",

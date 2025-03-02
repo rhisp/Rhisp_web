@@ -10,7 +10,42 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Fri, 28 Feb 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 01 Mar 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>R for the Rest of Us</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/blog/R_for_the_rest_of_us.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Hoy quiero dar publicidad a un canal de youtube y podcast muy interesante. Se llama <a href="https://www.youtube.com/@rfortherestofus">R for the Rest of Us</a>.</p>
+<p>Su fundador, <a href="https://www.linkedin.com/in/dgkeyes/">David Keyes</a> charla con gente muy diversa sobre cosas que se pueden hacer con R.</p>
+<p>Algunos episodios</p>
+<ul>
+<li><p><a href="https://www.youtube.com/watch?v=-YiRWFXNDmk&amp;t=372s">Automation R Workflows with IA</a>. Charla con <a href="https://www.linkedin.com/in/simonpcouch/">Simon P. Couch</a> ingeniero en Posit creador del paquete <a href="https://simonpcouch.github.io/gander/articles/gander.html"><code>gander</code></a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=7dkufBboMi4">A step-by-step guide to parameterized reporting in R using Quarto</a></p></li>
+<li><p><a href="https://www.youtube.com/watch?v=Iv6IZwYacXg">Will Landau on Using {targets} to Manage Reproducible Analysis Pipelines in R</a></p></li>
+</ul>
+<p>Y muchos más. Hay muchas joyas sorprendentes en este canal.</p>
+<ul>
+<li></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>R</category>
+  <category>Comunidad</category>
+  <category>podcast</category>
+  <category>Inteligencia Artificial</category>
+  <category>avances</category>
+  <guid>https://rhisp.github.io/Rhisp_web/blog/R_for_the_rest_of_us.html</guid>
+  <pubDate>Sat, 01 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/R_IA.webp" medium="image" type="image/webp"/>
+</item>
 <item>
   <title>IA en R</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>

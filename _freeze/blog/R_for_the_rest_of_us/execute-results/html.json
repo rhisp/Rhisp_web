@@ -1,0 +1,15 @@
+{
+  "hash": "4af3e77343d792f24ff16074cbc67767",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: R for the Rest of Us\ndate: '2025-03-02'\ndate-modified: last-modified\ncategories:\n  - \"2025\"\n  - R\n  - Comunidad\n  - podcast\n  - Inteligencia Artificial\n  - avances\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nimage: ../../images/R_IA.webp\n---\n\n\n\nHoy quiero dar publicidad a un canal de youtube y podcast muy interesante. Se llama [R for the Rest of Us](https://www.youtube.com/@rfortherestofus). \n\nSu fundador, [David Keyes](https://www.linkedin.com/in/dgkeyes/) charla con gente muy diversa sobre cosas que se pueden hacer con R. \n\nAlgunos episodios \n\n* [Automation R Workflows with IA](https://www.youtube.com/watch?v=-YiRWFXNDmk&t=372s). Charla con [Simon P. Couch](https://www.linkedin.com/in/simonpcouch/) ingeniero en Posit  creador del paquete [`gander`](https://simonpcouch.github.io/gander/articles/gander.html)\n\n* [A step-by-step guide to parameterized reporting in R using Quarto](https://www.youtube.com/watch?v=7dkufBboMi4)\n\n* [Will Landau on Using {targets} to Manage Reproducible Analysis Pipelines in R](https://www.youtube.com/watch?v=Iv6IZwYacXg)\n\n\nY muchos más. Hay muchas joyas sorprendentes en este canal. \n\n\n* \n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

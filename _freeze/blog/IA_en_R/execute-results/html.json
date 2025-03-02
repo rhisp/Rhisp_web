@@ -1,0 +1,15 @@
+{
+  "hash": "994b596e636cbc94ba44a602dcb2955e",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: IA en R \ndate: '2025-03-01'\ndate-modified: last-modified\ncategories:\n  - \"2025\"\n  - R\n  - Inteligencia Artificial\n  - avances\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nimage: ../../images/R_IA.webp\n---\n\n\n\n[Chris Brownlie](https://www.linkedin.com/in/cnbrownlie/) publica todas las semanas en Linkedin su [*This Week in R*](https://www.linkedin.com/pulse/week-r-2025-02-21-chris-brownlie-z6kwe/?trackingId=aT6emjD%2FvlfehrI%2BBBlZ1Q%3D%3D)\n\nHace poco contaba sobre cosas de IA en R, y compartía enlace a un libro escrito en Quarto (cómo no) llamado [Large Language Model tools for R](https://luisdva.github.io/llmsr-book/).\n\nTiene buena pinta y en la sección de [R packages](https://luisdva.github.io/llmsr-book/r-pkgs.html) pódeis encontrar auténticas joyas como `ellmer`, `mall`, `gander`, `ollamar`, `gemini.R` o `ragnar`.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -76,7 +76,7 @@
     "href": "blog.html",
     "title": "Comunidad R Hispano",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIA en R\n\n\n\n\n\n\n2025\n\n\nR\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nEjemplo webr\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\navances\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nR for the Rest of Us\n\n\n\n\n\n\n2025\n\n\nR\n\n\nComunidad\n\n\npodcast\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 2, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nIA en R\n\n\n\n\n\n\n2025\n\n\nR\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nEjemplo webr\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\navances\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "jornadas_post/Jornadas_R_Barcelona.html",
@@ -279,5 +279,12 @@
     "title": "IA en R",
     "section": "",
     "text": "Chris Brownlie publica todas las semanas en Linkedin su This Week in R\nHace poco contaba sobre cosas de IA en R, y compartía enlace a un libro escrito en Quarto (cómo no) llamado Large Language Model tools for R.\nTiene buena pinta y en la sección de R packages pódeis encontrar auténticas joyas como ellmer, mall, gander, ollamar, gemini.R o ragnar."
+  },
+  {
+    "objectID": "blog/R_for_the_rest_of_us.html",
+    "href": "blog/R_for_the_rest_of_us.html",
+    "title": "R for the Rest of Us",
+    "section": "",
+    "text": "Hoy quiero dar publicidad a un canal de youtube y podcast muy interesante. Se llama R for the Rest of Us.\nSu fundador, David Keyes charla con gente muy diversa sobre cosas que se pueden hacer con R.\nAlgunos episodios\n\nAutomation R Workflows with IA. Charla con Simon P. Couch ingeniero en Posit creador del paquete gander\nA step-by-step guide to parameterized reporting in R using Quarto\nWill Landau on Using {targets} to Manage Reproducible Analysis Pipelines in R\n\nY muchos más. Hay muchas joyas sorprendentes en este canal."
   }
 ]
