@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Comunidad R-Hispano">
+<meta name="dcterms.date" content="2025-03-03">
 
-<title>Comunidad R Hispano</title>
+<title>Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table – Comunidad R Hispano</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,90 +68,30 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-reading-time','listing-description','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<link rel="alternate" type="application/rss+xml" title="Comunidad R Hispano" href="index.xml" data-external="1"><meta property="og:title" content="Comunidad R Hispano">
+<meta property="og:title" content="Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table – Comunidad R Hispano">
 <meta property="og:description" content="Asociación de usuarios de R de España">
+<meta property="og:image" content="https://rhisp.github.io/Rhisp_web/../images/data_table.jpg">
 <meta property="og:site_name" content="Comunidad R Hispano">
-<meta name="twitter:title" content="Comunidad R Hispano">
+<meta name="twitter:title" content="Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table – Comunidad R Hispano">
 <meta name="twitter:description" content="Asociación de usuarios de R de España">
-<meta name="twitter:image" content="https://rhisp.github.io/Rhisp_web/images/logo_twitter.png">
+<meta name="twitter:image" content="https://rhisp.github.io/Rhisp_web/../images/data_table.jpg">
 <meta name="twitter:creator" content="@R_Hisp">
-<meta name="twitter:image-height" content="240">
-<meta name="twitter:image-width" content="240">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo_hexagonal.jpeg" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/logo_hexagonal.jpeg" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Comunidad R Hispano</span>
     </a>
   </div>
@@ -162,39 +102,39 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./quienes-somos.html"> 
+    <a class="nav-link" href="../quienes-somos.html"> 
 <span class="menu-text">QUIÉNES SOMOS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./hazte_socia.html"> 
+    <a class="nav-link" href="../hazte_socia.html"> 
 <span class="menu-text">HAZTE SOCIO/A</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Jornadas_post.html"> 
+    <a class="nav-link" href="../Jornadas_post.html"> 
 <span class="menu-text">JORNADAS</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Empleo_post.html"> 
+    <a class="nav-link" href="../Empleo_post.html"> 
 <span class="menu-text">EMPLEO</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./formacion_post.html"> 
+    <a class="nav-link" href="../formacion_post.html"> 
 <span class="menu-text">FORMACION</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./grupos-locales.html"> 
+    <a class="nav-link" href="../grupos-locales.html"> 
 <span class="menu-text">GRUPOS LOCALES</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">BLOG</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contacto.html"> 
+    <a class="nav-link" href="../contacto.html"> 
 <span class="menu-text">CONTACTO</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./enlaces.html"> 
+    <a class="nav-link" href="../enlaces.html"> 
 <span class="menu-text">ENLACES</span></a>
   </li>  
 </ul>
@@ -207,333 +147,87 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#web-de-la-comunidad-r-hispano" id="toc-web-de-la-comunidad-r-hispano" class="nav-link active" data-scroll-target="#web-de-la-comunidad-r-hispano">Web de la comunidad R-Hispano</a>
-  <ul class="collapse">
-  <li><a href="#estatutos" id="toc-estatutos" class="nav-link" data-scroll-target="#estatutos">Estatutos</a></li>
-  <li><a href="#últimos-posts" id="toc-últimos-posts" class="nav-link" data-scroll-target="#últimos-posts">Últimos posts</a></li>
-  </ul></li>
-  </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/rhisp/Rhisp_web/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rhisp/Rhisp_web/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(17)</span></div><div class="category" data-category="2023">2023 <span class="quarto-category-count">(6)</span></div><div class="category" data-category="2024">2024 <span class="quarto-category-count">(6)</span></div><div class="category" data-category="2025">2025 <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Comunidad">Comunidad <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Empleo">Empleo <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Formación">Formación <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Inteligencia Artificial">Inteligencia Artificial <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Jornadas">Jornadas <span class="quarto-category-count">(2)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(4)</span></div><div class="category" data-category="avances">avances <span class="quarto-category-count">(3)</span></div><div class="category" data-category="data.table">data.table <span class="quarto-category-count">(1)</span></div><div class="category" data-category="financiación">financiación <span class="quarto-category-count">(1)</span></div><div class="category" data-category="podcast">podcast <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tutorial">tutorial <span class="quarto-category-count">(1)</span></div></div></div>
-<!-- main -->
-<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
-
-
-
-
-<section id="web-de-la-comunidad-r-hispano" class="level1">
-<h1>Web de la comunidad R-Hispano</h1>
-<p>Nos puedes encontrar en <a href="https://twitter.com/R_Hisp">Twitter</a></p>
-<section id="estatutos" class="level2">
-<h2 class="anchored" data-anchor-id="estatutos">Estatutos</h2>
-<p><a href="doc_comunidad/Estatutos-R-es_v2.pdf">Link</a></p>
-</section>
-<section id="últimos-posts" class="level2">
-<h2 class="anchored" data-anchor-id="últimos-posts">Últimos posts</h2>
-
-
-
-</section>
-</section>
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
-</div>
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="2025,R,Comunidad,tutorial,data.table,financiación" data-listing-date-sort="1740956400000" data-listing-file-modified-sort="1741038430462" data-listing-date-modified-sort="1741038430000" data-listing-reading-time-sort="2" data-listing-word-count-sort="238">
-<a href="./blog/Gran_tutorial_data_table_en_R_madRid.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/data_table.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table
-</h5>
-<div class="listing-reading-time card-text text-muted">
-2 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('2025'); return false;">
-2025
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Comunidad'); return false;">
-Comunidad
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('tutorial'); return false;">
-tutorial
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('data.table'); return false;">
-data.table
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('financiación'); return false;">
-financiación
-</div>
-</div>
-<div class="card-text listing-description">
-El pasado jueves 27 Toby Dylan Hocking (https://github.com/tdhock) impartió un completo tutorial sobre data.table en el grupo R madRid. Podéis ver la presentación completa…
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 3, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="2025,R,Comunidad,podcast,Inteligencia Artificial,avances" data-listing-date-sort="1740870000000" data-listing-file-modified-sort="1741037350364" data-listing-date-modified-sort="1741037350000" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
-<a href="./blog/R_for_the_rest_of_us.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/R_IA.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-R for the Rest of Us
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('2025'); return false;">
-2025
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Comunidad'); return false;">
-Comunidad
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('podcast'); return false;">
-podcast
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Inteligencia Artificial'); return false;">
-Inteligencia Artificial
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('avances'); return false;">
-avances
-</div>
-</div>
-<div class="card-text listing-description">
-Hoy quiero dar publicidad a un canal de youtube y podcast muy interesante. Se llama R for the Rest of Us.
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 2, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="2025,R,Inteligencia Artificial,avances" data-listing-date-sort="1740783600000" data-listing-file-modified-sort="1741037350364" data-listing-date-modified-sort="1741037350000" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
-<a href="./blog/IA_en_R.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/R_IA.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-IA en R
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('2025'); return false;">
-2025
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
-R
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Inteligencia Artificial'); return false;">
-Inteligencia Artificial
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('avances'); return false;">
-avances
-</div>
-</div>
-<div class="card-text listing-description">
-Chris Brownlie publica todas las semanas en Linkedin su <em>This Week in R</em>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Mar 1, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="2025,Formación" data-listing-date-sort="1740697200000" data-listing-file-modified-sort="1740745149526" data-listing-date-modified-sort="1740745149000" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
-<a href="./formacion_post/2025/Geospatialworld_2025-02-28.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/formacion.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Geospatialworld este año es en Madrid
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('2025'); return false;">
-2025
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Formación'); return false;">
-Formación
-</div>
-</div>
-<div class="card-text listing-description">
-Para los que os dedicáis al mundo de visualización o análisis geográfico, resulta interesante que este congreso tan especializado se desarrolle este año (22-25 de abril) en…
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Feb 28, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="2025,Formación" data-listing-date-sort="1740610800000" data-listing-file-modified-sort="1740744095504" data-listing-date-modified-sort="1740744095000" data-listing-reading-time-sort="1" data-listing-word-count-sort="109">
-<a href="./formacion_post/2025/Concurso_viz_Asturias_2025-02-27.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/formacion.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Concurso Visualización R Asturias
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('2025'); return false;">
-2025
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Formación'); return false;">
-Formación
-</div>
-</div>
-<div class="card-text listing-description">
-El grupo local R de Asturias (https://twitter.com/grupoRasturias) ha lanzado un reto de visualización con R, en realidad un concurso, ¡la 4ª edición!. Extraído de su web:
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Feb 27, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="2024,Formación" data-listing-date-sort="1734562800000" data-listing-file-modified-sort="1740744095504" data-listing-date-modified-sort="1740744095000" data-listing-reading-time-sort="2" data-listing-word-count-sort="293">
-<a href="./formacion_post/2024/UAM_Estadistica_Aplicada_con_R.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/formacion.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Estadística Aplicada con R
-</h5>
-<div class="listing-reading-time card-text text-muted">
-2 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('2024'); return false;">
-2024
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Formación'); return false;">
-Formación
-</div>
-</div>
-<div class="card-text listing-description">
-Jesús Herranz, ilustre eRReRo, nos envía la siguiente convocatoria de cursos:
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Dec 19, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="2024,Formación" data-listing-date-sort="1732834800000" data-listing-file-modified-sort="1740744095504" data-listing-date-modified-sort="1740744095000" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
-<a href="./formacion_post/2024/Master_UNED_2024-11-29.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/formacion.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Master BigData y Data Science UNED
-</h5>
-<div class="listing-reading-time card-text text-muted">
-1 min
-</div>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('2024'); return false;">
-2024
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Formación'); return false;">
-Formación
-</div>
-</div>
-<div class="card-text listing-description">
-La Facultad de Economía de UNED, patrocinador desde hace muchos años del grupo R-madRid, ha lanzado la octava edición (2025) del “Máster en BigData y Data Science aplicado a…
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Nov 29, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">2025</div>
+    <div class="quarto-category">R</div>
+    <div class="quarto-category">Comunidad</div>
+    <div class="quarto-category">tutorial</div>
+    <div class="quarto-category">data.table</div>
+    <div class="quarto-category">financiación</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Comunidad R-Hispano </p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 3, 2025</p>
+    </div>
+  </div>
+  
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">March 3, 2025</p>
+    </div>
+  </div>
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>El pasado jueves 27 Toby Dylan Hocking (<a href="https://github.com/tdhock" class="uri">https://github.com/tdhock</a>) impartió un completo tutorial sobre data.table en el grupo R madRid. Podéis ver la presentación completa aquí:</p>
+<p><a href="https://player.vimeo.com/video/1061999204?h=46773e71e3%22">https://player.vimeo.com/video/1061999204?h=46773e71e3</a></p>
+<p>Y la presentación en el área del grupo local:</p>
+<p><a href="https://madrid.r-es.org/" class="uri">https://madrid.r-es.org/</a></p>
+<p>Y queremos resaltar dos interesantes informaciones que compartió Toby:</p>
+<ul>
+<li><p>El ecosistema data.table recibió una financiación de la National Science Foundation para expandirlo y <strong>en concreto proporciona 20 becas para traducción, de US$500 cada una</strong>, para entre otras cosas (del original inglés que nos presentó):</p>
+<ul>
+<li><p>make documentation and messages more accessible</p></li>
+<li><p>Translate errors/warnings/messages (potools package can help)</p></li>
+<li><p>Translate most important vignettes (intro, import, reshape)</p></li>
+<li><p>Translate other documentation (cheat sheets, slides, etc)</p></li>
+<li><p>Priority: Portuguese, Spanish, Chinese, French, Russian, Arabic, Hindi</p></li>
+<li><p>Call for proposals: <a href="https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/" class="uri">https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/</a></p></li>
+</ul></li>
+<li><p>Además <strong>proporciona ocho becas de viaje de US$2700 cada una</strong> para (igualmente tomado de su presentación):</p>
+<ul>
+<li><p>Candidates should give a talk about data.table at a conference with a relevant audience (potential data.table users or contributors)</p></li>
+<li><p>Example: useR! 8-10 Aug 2025, Durham, NC, USA.</p></li>
+<li><p>Call for proposals: <a href="https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/" class="uri">https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/</a></p></li>
+</ul></li>
+</ul>
+<p>Esperamos que esta información sea de vuestro interés y … en fin, ahí tenéis los enlaces para hacer las propuestas!</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -993,6 +687,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
+<script src="https://giscus.app/client.js" data-repo="rhisp/blog_comments" data-repo-id="R_kgDOK3qL_w" data-category="General" data-category-id="DIC_kwDOK3qL_84CbnHP" data-mapping="title" data-reactions-enabled="1" data-emit-metadata="0" data-input-position="top" data-theme="light" data-lang="en" crossorigin="anonymous" async="">
+</script>
+<input type="hidden" id="giscus-base-theme" value="light">
+<input type="hidden" id="giscus-alt-theme" value="dark">
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
@@ -1001,7 +699,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/rhisp/Rhisp_web/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rhisp/Rhisp_web/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/rhisp/Rhisp_web/edit/main/blog/Gran_tutorial_data_table_en_R_madRid.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/rhisp/Rhisp_web/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>Patrocinado por <img src="images/RConsortium_Horizontal_Pantone.png" class="img-fluid" style="width:35.0%" alt="imagen"></p>
 </div>

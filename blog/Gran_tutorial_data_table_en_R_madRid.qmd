@@ -1,0 +1,63 @@
+---
+title: Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table
+date: '2025-03-03'
+date-modified: last-modified
+categories:
+  - "2025"
+  - R
+  - Comunidad
+  - tutorial
+  - data.table
+  - financiación
+execute: 
+  message: false
+  warning: false
+  echo: true
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+knitr:
+  opts_chunk:
+    out.width: 80%
+    fig.showtext: TRUE
+    collapse: true
+    comment: "#>"
+image: ../../images/data_table.jpg
+---
+
+El pasado jueves 27 Toby Dylan Hocking (<https://github.com/tdhock>) impartió un completo tutorial sobre data.table en el grupo R madRid. Podéis ver la presentación completa aquí:
+
+[`https://player.vimeo.com/video/1061999204?h=46773e71e3`{=html}](https://player.vimeo.com/video/1061999204?h=46773e71e3")
+
+Y la presentación en el área del grupo local:
+
+<https://madrid.r-es.org/>
+
+Y queremos resaltar dos interesantes informaciones que compartió Toby:
+
+-   El ecosistema data.table recibió una financiación de la National Science Foundation para expandirlo y **en concreto proporciona 20 becas para traducción, de US\$500 cada una**, para entre otras cosas (del original inglés que nos presentó):
+
+    -   make documentation and messages more accessible
+
+    -   Translate errors/warnings/messages (potools package can help)
+
+    -   Translate most important vignettes (intro, import, reshape)
+
+    -   Translate other documentation (cheat sheets, slides, etc)
+
+    -   Priority: Portuguese, Spanish, Chinese, French, Russian, Arabic, Hindi
+
+    -   Call for proposals: <https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/>
+
+-   Además **proporciona ocho becas de viaje de US\$2700 cada una** para (igualmente tomado de su presentación):
+
+    -   Candidates should give a talk about data.table at a conference with a relevant audience (potential data.table users or contributors)
+
+    -   Example: useR! 8-10 Aug 2025, Durham, NC, USA.
+
+    -   Call for proposals: <https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/>
+
+Esperamos que esta información sea de vuestro interés y ... en fin, ahí tenéis los enlaces para hacer las propuestas!

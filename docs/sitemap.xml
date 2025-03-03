@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/index.html</loc>
-    <lastmod>2025-03-01T18:07:30.249Z</lastmod>
+    <lastmod>2025-03-03T21:29:10.370Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/quienes-somos.html</loc>
@@ -123,5 +123,9 @@
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/blog/R_for_the_rest_of_us.html</loc>
     <lastmod>2025-03-02T14:12:34.631Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/blog/Gran_tutorial_data_table_en_R_madRid.html</loc>
+    <lastmod>2025-03-03T21:47:10.462Z</lastmod>
   </url>
 </urlset>

@@ -286,5 +286,12 @@
     "title": "R for the Rest of Us",
     "section": "",
     "text": "Hoy quiero dar publicidad a un canal de youtube y podcast muy interesante. Se llama R for the Rest of Us.\nSu fundador, David Keyes charla con gente muy diversa sobre cosas que se pueden hacer con R.\nAlgunos episodios\n\nAutomation R Workflows with IA. Charla con Simon P. Couch ingeniero en Posit creador del paquete gander\nA step-by-step guide to parameterized reporting in R using Quarto\nWill Landau on Using {targets} to Manage Reproducible Analysis Pipelines in R\n\nY muchos más. Hay muchas joyas sorprendentes en este canal."
+  },
+  {
+    "objectID": "blog/Gran_tutorial_data_table_en_R_madRid.html",
+    "href": "blog/Gran_tutorial_data_table_en_R_madRid.html",
+    "title": "Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table",
+    "section": "",
+    "text": "El pasado jueves 27 Toby Dylan Hocking (https://github.com/tdhock) impartió un completo tutorial sobre data.table en el grupo R madRid. Podéis ver la presentación completa aquí:\nhttps://player.vimeo.com/video/1061999204?h=46773e71e3\nY la presentación en el área del grupo local:\nhttps://madrid.r-es.org/\nY queremos resaltar dos interesantes informaciones que compartió Toby:\n\nEl ecosistema data.table recibió una financiación de la National Science Foundation para expandirlo y en concreto proporciona 20 becas para traducción, de US$500 cada una, para entre otras cosas (del original inglés que nos presentó):\n\nmake documentation and messages more accessible\nTranslate errors/warnings/messages (potools package can help)\nTranslate most important vignettes (intro, import, reshape)\nTranslate other documentation (cheat sheets, slides, etc)\nPriority: Portuguese, Spanish, Chinese, French, Russian, Arabic, Hindi\nCall for proposals: https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/\n\nAdemás proporciona ocho becas de viaje de US$2700 cada una para (igualmente tomado de su presentación):\n\nCandidates should give a talk about data.table at a conference with a relevant audience (potential data.table users or contributors)\nExample: useR! 8-10 Aug 2025, Durham, NC, USA.\nCall for proposals: https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/\n\n\nEsperamos que esta información sea de vuestro interés y … en fin, ahí tenéis los enlaces para hacer las propuestas!"
   }
 ]
