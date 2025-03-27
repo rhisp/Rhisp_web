@@ -30,7 +30,7 @@ image: ../../images/data_table.jpg
 
 El pasado jueves 27 Toby Dylan Hocking (<https://github.com/tdhock>) impartió un completo tutorial sobre data.table en el grupo R madRid. Podéis ver la presentación completa aquí:
 
-[`https://player.vimeo.com/video/1061999204?h=46773e71e3`{=html}](https://player.vimeo.com/video/1061999204?h=46773e71e3")
+[`https://player.vimeo.com/video/1061999204?h=46773e71e3`{=html}](https://player.vimeo.com/video/1061999204?h=46773e71e3%22)
 
 Y la presentación en el área del grupo local:
 

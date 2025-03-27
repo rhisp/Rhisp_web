@@ -1,0 +1,33 @@
+---
+title: IV Congreso de R y XV Jornadas de usuarios de R 5-7 Noviembre 2025
+date: '2025-03-27'
+date-modified: last-modified
+categories:
+  - 2025
+  - Jornadas
+execute: 
+  message: false
+  warning: false
+  echo: true
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+knitr:
+  opts_chunk:
+    out.width: 80%
+    fig.showtext: TRUE
+    collapse: true
+    comment: "#>"
+image: ../../images/formacion.png
+---
+
+Reservad estas fechas para el congReso / joRnadas Rhispano 2025:
+
+5 a 7 de noviembre
+
+en Valencia.
+
+Iremos publicando todos los detalles cuanto antes.

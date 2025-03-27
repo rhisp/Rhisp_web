@@ -10,7 +10,30 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.5.57</generator>
-<lastBuildDate>Sun, 02 Mar 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 26 Mar 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>IV Congreso de R y XV Jornadas de usuarios de R 5-7 Noviembre 2025</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_valencia_2025.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Reservad estas fechas para el congReso / joRnadas Rhispano 2025:</p>
+<p>5 a 7 de noviembre</p>
+<p>en Valencia.</p>
+<p>Iremos publicando todos los detalles cuanto antes.</p>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>Jornadas</category>
+  <guid>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_valencia_2025.html</guid>
+  <pubDate>Wed, 26 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>

@@ -18,6 +18,7 @@
   {
     "listing": "/Jornadas_post.html",
     "items": [
+      "/jornadas_post/Jornadas_R_valencia_2025.html",
       "/jornadas_post/Jornadas_R_sevilla.html",
       "/jornadas_post/Jornadas_R_Barcelona.html"
     ]
@@ -25,6 +26,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/jornadas_post/Jornadas_R_valencia_2025.html",
       "/blog/Gran_tutorial_data_table_en_R_madRid.html",
       "/blog/R_for_the_rest_of_us.html",
       "/blog/IA_en_R.html",

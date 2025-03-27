@@ -1,0 +1,15 @@
+{
+  "hash": "d3418749b573b8c4e3b19ed85852df08",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: IV Congreso de R y XV Jornadas de usuarios de R 5-7 Noviembre 2025\ndate: '2025-03-27'\ndate-modified: last-modified\ncategories:\n  - 2025\n  - Jornadas\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nimage: ../../images/formacion.png\n---\n\n\n\nReservad estas fechas para el congReso / joRnadas Rhispano 2025:\n\n5 a 7 de noviembre\n\nen Valencia.\n\nIremos publicando todos los detalles cuanto antes.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
