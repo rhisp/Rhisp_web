@@ -10,7 +10,84 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Sat, 01 Mar 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 28 Mar 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Large Language Models tools for R</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/blog/Large_language_models_for_R.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Buenas. En R tenemos un rico ecosistema para tratar con modelo de lenguaje. Luis D. Verde Arregoitia ha hecho un recopilatorio muy interesante en un pequeño libro online.</p>
+<p><a href="https://luisdva.github.io/llmsr-book/">Large Language Models tools for R</a></p>
+<p>En el libro hace un repaso por muchas de las herramientas disponibles. Un indispensable si quieres utilizar IA generativa.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rhisp.github.io/Rhisp_web/blog/llm_logos_varios.png" class="img-fluid figure-img"></p>
+<figcaption>logos</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>R</category>
+  <category>Comunidad</category>
+  <category>Inteligencia Artificial</category>
+  <category>avances</category>
+  <guid>https://rhisp.github.io/Rhisp_web/blog/Large_language_models_for_R.html</guid>
+  <pubDate>Fri, 28 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/blog/llm_logos_varios.png" medium="image" type="image/png" height="140" width="144"/>
+</item>
+<item>
+  <title>Gran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/blog/Gran_tutorial_data_table_en_R_madRid.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>El pasado jueves 27 Toby Dylan Hocking (<a href="https://github.com/tdhock" class="uri">https://github.com/tdhock</a>) impartió un completo tutorial sobre data.table en el grupo R madRid. Podéis ver la presentación completa aquí:</p>
+<p><a href="https://player.vimeo.com/video/1061999204?h=46773e71e3%22">https://player.vimeo.com/video/1061999204?h=46773e71e3</a></p>
+<p>Y la presentación en el área del grupo local:</p>
+<p><a href="https://madrid.r-es.org/" class="uri">https://madrid.r-es.org/</a></p>
+<p>Y queremos resaltar dos interesantes informaciones que compartió Toby:</p>
+<ul>
+<li><p>El ecosistema data.table recibió una financiación de la National Science Foundation para expandirlo y <strong>en concreto proporciona 20 becas para traducción, de US$500 cada una</strong>, para entre otras cosas (del original inglés que nos presentó):</p>
+<ul>
+<li><p>make documentation and messages more accessible</p></li>
+<li><p>Translate errors/warnings/messages (potools package can help)</p></li>
+<li><p>Translate most important vignettes (intro, import, reshape)</p></li>
+<li><p>Translate other documentation (cheat sheets, slides, etc)</p></li>
+<li><p>Priority: Portuguese, Spanish, Chinese, French, Russian, Arabic, Hindi</p></li>
+<li><p>Call for proposals: <a href="https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/" class="uri">https://rdatatable-community.github.io/The-Raft/posts/2023-10-17-translation_announcement-toby_hocking/</a></p></li>
+</ul></li>
+<li><p>Además <strong>proporciona ocho becas de viaje de US$2700 cada una</strong> para (igualmente tomado de su presentación):</p>
+<ul>
+<li><p>Candidates should give a talk about data.table at a conference with a relevant audience (potential data.table users or contributors)</p></li>
+<li><p>Example: useR! 8-10 Aug 2025, Durham, NC, USA.</p></li>
+<li><p>Call for proposals: <a href="https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/" class="uri">https://rdatatable-community.github.io/The-Raft/posts/2023-11-01-travel_grant_announcement-community_team/</a></p></li>
+</ul></li>
+</ul>
+<p>Esperamos que esta información sea de vuestro interés y … en fin, ahí tenéis los enlaces para hacer las propuestas!</p>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>R</category>
+  <category>Comunidad</category>
+  <category>tutorial</category>
+  <category>data.table</category>
+  <category>financiación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/blog/Gran_tutorial_data_table_en_R_madRid.html</guid>
+  <pubDate>Sun, 02 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/data_table.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>R for the Rest of Us</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>

@@ -9,8 +9,39 @@
 <link>https://rhisp.github.io/Rhisp_web/</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Wed, 26 Mar 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Fri, 28 Mar 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Large Language Models tools for R</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/blog/Large_language_models_for_R.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Buenas. En R tenemos un rico ecosistema para tratar con modelo de lenguaje. Luis D. Verde Arregoitia ha hecho un recopilatorio muy interesante en un pequeño libro online.</p>
+<p><a href="https://luisdva.github.io/llmsr-book/">Large Language Models tools for R</a></p>
+<p>En el libro hace un repaso por muchas de las herramientas disponibles. Un indispensable si quieres utilizar IA generativa.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://rhisp.github.io/Rhisp_web/blog/llm_logos_varios.png" class="img-fluid figure-img"></p>
+<figcaption>logos</figcaption>
+</figure>
+</div>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>R</category>
+  <category>Comunidad</category>
+  <category>Inteligencia Artificial</category>
+  <category>avances</category>
+  <guid>https://rhisp.github.io/Rhisp_web/blog/Large_language_models_for_R.html</guid>
+  <pubDate>Fri, 28 Mar 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/blog/llm_logos_varios.png" medium="image" type="image/png" height="140" width="144"/>
+</item>
 <item>
   <title>IV Congreso de R y XV Jornadas de usuarios de R 5-7 Noviembre 2025</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>

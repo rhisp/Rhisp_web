@@ -76,7 +76,7 @@
     "href": "blog.html",
     "title": "Comunidad R Hispano",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nR for the Rest of Us\n\n\n\n\n\n\n2025\n\n\nR\n\n\nComunidad\n\n\npodcast\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 2, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nIA en R\n\n\n\n\n\n\n2025\n\n\nR\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nEjemplo webr\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\navances\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nLarge Language Models tools for R\n\n\n\n\n\n\n2025\n\n\nR\n\n\nComunidad\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 29, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nGran tutorial data table en R MadRid y avisos sobre financiación para expandir el ecosistema data.table\n\n\n\n\n\n\n2025\n\n\nR\n\n\nComunidad\n\n\ntutorial\n\n\ndata.table\n\n\nfinanciación\n\n\n\n\n\n\n\n\n\nMar 3, 2025\n\n\n2 min\n\n\n\n\n\n\n\n\n\n\n\n\nR for the Rest of Us\n\n\n\n\n\n\n2025\n\n\nR\n\n\nComunidad\n\n\npodcast\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 2, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nIA en R\n\n\n\n\n\n\n2025\n\n\nR\n\n\nInteligencia Artificial\n\n\navances\n\n\n\n\n\n\n\n\n\nMar 1, 2025\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nEjemplo webr\n\n\n\n\n\n\n2023\n\n\nR\n\n\nComunidad\n\n\navances\n\n\n\n\n\n\n\n\n\nDec 23, 2023\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "jornadas_post/Jornadas_R_Barcelona.html",
@@ -300,5 +300,12 @@
     "title": "IV Congreso de R y XV Jornadas de usuarios de R 5-7 Noviembre 2025",
     "section": "",
     "text": "Reservad estas fechas para el congReso / joRnadas Rhispano 2025:\n5 a 7 de noviembre\nen Valencia.\nIremos publicando todos los detalles cuanto antes."
+  },
+  {
+    "objectID": "blog/Large_language_models_for_R.html",
+    "href": "blog/Large_language_models_for_R.html",
+    "title": "Large Language Models tools for R",
+    "section": "",
+    "text": "Buenas. En R tenemos un rico ecosistema para tratar con modelo de lenguaje. Luis D. Verde Arregoitia ha hecho un recopilatorio muy interesante en un pequeño libro online.\nLarge Language Models tools for R\nEn el libro hace un repaso por muchas de las herramientas disponibles. Un indispensable si quieres utilizar IA generativa.\n\n\n\nlogos"
   }
 ]

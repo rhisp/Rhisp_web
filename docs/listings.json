@@ -2,6 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/Large_language_models_for_R.html",
+      "/blog/Gran_tutorial_data_table_en_R_madRid.html",
       "/blog/R_for_the_rest_of_us.html",
       "/blog/IA_en_R.html",
       "/blog/Ejemplo_webr.html"
@@ -26,6 +28,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/blog/Large_language_models_for_R.html",
       "/jornadas_post/Jornadas_R_valencia_2025.html",
       "/blog/Gran_tutorial_data_table_en_R_madRid.html",
       "/blog/R_for_the_rest_of_us.html",

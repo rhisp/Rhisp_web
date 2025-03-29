@@ -38,7 +38,7 @@
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/index.html</loc>
-    <lastmod>2025-03-03T21:29:10.370Z</lastmod>
+    <lastmod>2025-03-01T18:07:30.249Z</lastmod>
   </url>
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/quienes-somos.html</loc>
@@ -131,5 +131,9 @@
   <url>
     <loc>https://rhisp.github.io/Rhisp_web/jornadas_post/Jornadas_R_valencia_2025.html</loc>
     <lastmod>2025-03-27T18:18:02.766Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rhisp.github.io/Rhisp_web/blog/Large_language_models_for_R.html</loc>
+    <lastmod>2025-03-29T09:55:52.720Z</lastmod>
   </url>
 </urlset>
