@@ -9,7 +9,7 @@ La Comunidad R Hispano quiere apoyar las reuniones de grupos locales de usuarios
 -   Almería ([blog](https://almeriarusers.wordpress.com/), [twitter](https://twitter.com/AlmeriaRUsers))
 -   Asturias ([twitter](https://twitter.com/grupoRasturias))
 -   Barcelona ([blog](https://www.barcelonar.org/), [meetup](http://www.meetup.com/RugBcn-Barcelona-R-users-group/))
--   Canarias ([blog](http://canarias.r-es.org/), \[twitter\]https://twitter.com/canarias_r)
+-   Canarias ([blog](http://canarias.r-es.org/), [twitter](https://twitter.com/canarias_r)
 -   Castilla-la-Mancha (R Quixote) ([twitter](https://twitter.com/quixote_r))
 -   Córdoba ([twitter](https://mobile.twitter.com/cordousers))
 -   Galicia ([portal](https://www.r-users.gal/), [twitter](https://twitter.com/R_usersGal))
