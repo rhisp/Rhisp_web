@@ -12,6 +12,7 @@ website:
   site-url: "https://rhisp.github.io/Rhisp_web/"
   repo-url: https://github.com/rhisp/Rhisp_web
   repo-actions: [edit, issue]
+  google-analytics: G-2RYJ8GNJXR
 
   open-graph: true
 
