@@ -10,7 +10,39 @@
 <atom:link href="https://rhisp.github.io/Rhisp_web/formacion_post.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
 <generator>quarto-1.6.39</generator>
-<lastBuildDate>Thu, 27 Feb 2025 23:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 14 May 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Microcredencial Universitaria en Programación en R USAL</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2025/Microcredencial_R_USAL_2025-05-15.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>La Universidad de Salamanca organiza un curso online de programación y análisis de datos con R. El objetivo de este curso es que el alumnado aprenda a utilizar R para realizar el análisis de sus datos.</p>
+<p>Comenzará desde cero y no es necesario tener conocimientos previos de programación ni de estadística.</p>
+<p>El curso está reconocido como una <a href="https://www.youtube.com/watch?v=MAJWMt7GejI">Microcredencial Universitaria</a> (Ley Orgánica del Sistema Universitario) y se impartirá <strong>online</strong>.</p>
+<ul>
+<li><p><strong>Fechas:</strong> 2 junio de 2025 - 30 de junio de 2025</p></li>
+<li><p><strong>Acreditaciones:</strong> 3 créditos ECTS</p></li>
+<li><p><strong>Horas lectivas:</strong> 30 horas de teleconferencias síncronas.</p></li>
+<li><p><strong>Material:</strong> Temas desarrollados, código con ejemplos, vídeos resumen.</p></li>
+<li><p><strong>Precio:</strong> 200€ (Dirigido a personas entre 25 y 64 años)</p></li>
+</ul>
+<p>Información adicional e inscripciones en: <a href="https://cursoronline.usal.es/">https://cursoRonline.usal.es</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAJWMt7GejI?si=WF6pvjCK25zuh9Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2025/Microcredencial_R_USAL_2025-05-15.html</guid>
+  <pubDate>Wed, 14 May 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/images/formacion.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
 <item>
   <title>Geospatialworld este año es en Madrid</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
