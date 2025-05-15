@@ -1,0 +1,44 @@
+---
+title: "Política de Privacidad"
+format: html
+date: 2025-05-15
+---
+
+## Política de Privacidad
+
+
+
+En **www.r-es.org** nos comprometemos a proteger su privacidad. Este documento describe cómo recopilamos, utilizamos y protegemos sus datos personales cuando visita e interactúa con nuestro sitio web. También detalla el uso de cookies funcionales y registros web necesarios para el correcto funcionamiento de nuestros servicios.
+
+### 1. Recopilación de datos personales
+
+Recopilamos ciertos datos personales mediante registros web, como direcciones IP, información del navegador e identificadores de dispositivos. Estos datos se utilizan únicamente para analizar el rendimiento del sitio, resolver incidencias técnicas y garantizar la seguridad del sistema. No utilizamos esta información para identificar a usuarios individuales, salvo que sea legalmente requerido o necesario para proteger nuestros derechos o los de terceros.
+
+### 2. Uso de cookies funcionales
+
+Utilizamos cookies funcionales estrictamente necesarias para prestar los servicios solicitados, como recordar preferencias, mantener sesiones activas y permitir el inicio de sesión seguro. Estas cookies no recopilan información personal identificable y se eliminan al cerrar el navegador.
+
+### 3. Uso de registros web
+
+Los registros web nos permiten analizar el uso del sitio, detectar errores y vigilar la seguridad. Esta información se emplea exclusivamente con fines técnicos y de mejora del servicio, y se conserva solo durante el tiempo necesario.
+
+### 4. Seguridad de los datos
+
+Adoptamos medidas técnicas y organizativas para proteger sus datos personales. El acceso a los registros está restringido al personal autorizado y almacenado de forma segura. La conservación de estos datos es limitada al tiempo estrictamente necesario para los fines indicados.
+
+### 5. Servicios de terceros
+
+Podemos colaborar con proveedores externos de confianza que nos asisten en el análisis del sitio o en la detección de incidentes de seguridad. Garantizamos que dichos proveedores cumplen con las normativas de protección de datos aplicables y mantienen la confidencialidad y seguridad de la información.
+
+### 6. Sus derechos
+
+Usted tiene derecho a acceder, rectificar o solicitar la eliminación de sus datos personales recogidos a través de registros web. Si desea ejercer sus derechos o tiene alguna consulta sobre nuestra gestión de datos, puede contactarnos usando los medios indicados más abajo.
+
+### 7. Actualizaciones de la política
+
+Podemos actualizar esta Política de Privacidad para reflejar cambios en la legislación o en nuestras prácticas. Le recomendamos revisar periódicamente esta sección para mantenerse informado.
+
+### 8. Contacto
+
+Para cualquier duda relacionada con esta Política de Privacidad o nuestras prácticas de protección de datos, puede escribirnos a:  
+📧 **info@r-es.org**
