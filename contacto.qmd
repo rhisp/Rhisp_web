@@ -4,7 +4,7 @@ title: "Contacto"
 
 Para cuestiones genéricas sobre esta página, puedes escribir a edicion\@r-es.org, aunque si la pregunta se refiere a formación o empleo, puedes hacerlo a las direcciones de correo específicas formacion\@r-es.org y empleo\@r-es.org.
 
-Si quieres asociarte a la Comunidad R Hispano, puedes hacerlo rellenando este formulario
+Si quieres asociarte a la Comunidad R Hispano, puedes hacerlo rellenando este [formulario](https://docs.google.com/forms/d/1qq2l2we1JvVFjLAKmvqz3CuzQIzouKLU2-h5ekArqJE/edit)
 
 Para otras cuestiones, puedes contactar con alguno de los cargos electos de la Comunidad R Hispano: presidente\@r-es.org, vicepresidente\@r-es.org, tesorero\@r-es.org o secretario\@r-es.org.
 
