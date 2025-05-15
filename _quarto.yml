@@ -73,6 +73,10 @@ format:
     code-overflow: wrap
     toc: true
 
+cookie-consent: 
+    type: express
+    palette: light
+    prefs-text: "Cookies"
 
 freeze: auto
 

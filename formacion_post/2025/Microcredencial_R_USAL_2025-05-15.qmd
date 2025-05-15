@@ -1,0 +1,37 @@
+---
+title: "Microcredencial Universitaria en Programación en R USAL"
+date: '2025-05-15'
+date-modified: last-modified
+categories:
+  - "2025"
+  - Formación
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+image: ../../images/formacion.png
+---
+
+La Universidad de Salamanca organiza un curso online de programación y análisis de datos con R. El objetivo de este curso es que el alumnado aprenda a utilizar R para realizar el análisis de sus datos.
+
+Comenzará desde cero y no es necesario tener conocimientos previos de programación ni de estadística.
+
+El curso está reconocido como una [Microcredencial Universitaria](https://www.youtube.com/watch?v=MAJWMt7GejI) (Ley Orgánica del Sistema Universitario) y se impartirá **online**.
+
+-   **Fechas:** 2 junio de 2025 - 30 de junio de 2025
+
+-   **Acreditaciones:** 3 créditos ECTS
+
+-   **Horas lectivas:** 30 horas de teleconferencias síncronas.
+
+-   **Material:** Temas desarrollados, código con ejemplos, vídeos resumen.
+
+-   **Precio:** 200€ (Dirigido a personas entre 25 y 64 años)
+
+Información adicional e inscripciones en: [https://cursoRonline.usal.es](https://cursoronline.usal.es/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MAJWMt7GejI?si=WF6pvjCK25zuh9Zk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
