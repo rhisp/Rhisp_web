@@ -14,8 +14,9 @@ title-block-banner: true
 page-navigation: true
 ---
 
-\[XIV Jornadas, 2024, Sevilla\](La Comunidad R Hispano organiza anualmente unas jornadas nacionales con el objetivo de proporcionar un punto de encuentro a los usuarios de R, fomentar la colaboración entre ellos en un ambiente multidisciplinar, divulgar el conocimiento del lenguaje y sus posibilidades y promover el uso de R.
+La Comunidad R Hispano organiza anualmente unas jornadas nacionales con el objetivo de proporcionar un punto de encuentro a los usuarios de R, fomentar la colaboración entre ellos en un ambiente multidisciplinar, divulgar el conocimiento del lenguaje y sus posibilidades y promover el uso de R.
 
+-   [XV Jornadas](https://rvalencia.webs.upv.es), 2025, Valencia 
 -   [XIV Jornadas](https://www.imus.us.es/congresos/IIIRqueR/), 2024, Sevilla [Abstracts](materiales/IIIRqueR_abstracts.pdf)
 
 -   [XIII Jornadas](https://eventum.upf.edu/101896/detail/ii-congreso-de-r-y-xiii-jornadas-de-usuarios-de-r.html), 2023, Barcelona
