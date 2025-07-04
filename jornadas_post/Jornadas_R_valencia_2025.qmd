@@ -24,10 +24,16 @@ knitr:
 image: ../../images/formacion.png
 ---
 
-Reservad estas fechas para el congReso / joRnadas Rhispano 2025:
+Nos vamos a Valencia del 5 al 7 de Noviembre de 2025. El año pasado en las jornadas de Sevilla nuestros amigos de Valencia se ofrecieron a hacer las jornadas de 2025, a pesar de la situación por la que se estaba pasando por lo de la DANA.
 
-5 a 7 de noviembre
+Para todos los que amamos R en particular y el análisis de datos en general será un inmenso placer estar allí en Noviembre.
 
-en Valencia.
+Inscripciones y envío de abstracts. (recuerda que debes ser socio R-hispano para disponer del precio reducido):
 
-Iremos publicando todos los detalles cuanto antes.
+-   [XV Jornadas](https://rvalencia.webs.upv.es),
+
+Si no eres socio R-hispano, ¡es facilísimo! Simplemente rellena este formulario:
+
+<https://docs.google.com/forms/d/1qq2l2we1JvVFjLAKmvqz3CuzQIzouKLU2-h5ekArqJE/edit>
+
+Esperamos veros en Valencia.

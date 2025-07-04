@@ -1,8 +1,8 @@
 {
-  "hash": "d3418749b573b8c4e3b19ed85852df08",
+  "hash": "e873e3dc02c223f8d3f98dcc547a5988",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: IV Congreso de R y XV Jornadas de usuarios de R 5-7 Noviembre 2025\ndate: '2025-03-27'\ndate-modified: last-modified\ncategories:\n  - 2025\n  - Jornadas\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nimage: ../../images/formacion.png\n---\n\n\n\nReservad estas fechas para el congReso / joRnadas Rhispano 2025:\n\n5 a 7 de noviembre\n\nen Valencia.\n\nIremos publicando todos los detalles cuanto antes.\n",
+    "markdown": "---\ntitle: IV Congreso de R y XV Jornadas de usuarios de R 5-7 Noviembre 2025\ndate: '2025-03-27'\ndate-modified: last-modified\ncategories:\n  - 2025\n  - Jornadas\nexecute: \n  message: false\n  warning: false\n  echo: true\nformat: \n  html: \n    fig-height: 5\n    fig-dpi: 300\n    fig-width: 8.88\n    fig-align: center\nknitr:\n  opts_chunk:\n    out.width: 80%\n    fig.showtext: TRUE\n    collapse: true\n    comment: \"#>\"\nimage: ../../images/formacion.png\n---\n\nNos vamos a Valencia del 5 al 7 de Noviembre de 2025. El año pasado en las jornadas de Sevilla nuestros amigos de Valencia se ofrecieron a hacer las jornadas de 2025, a pesar de la situación por la que se estaba pasando por lo de la DANA.\n\nPara todos los que amamos R en particular y el análisis de datos en general será un inmenso placer estar allí en Noviembre.\n\nInscripciones y envío de abstracts. (recuerda que debes ser socio R-hispano para disponer del precio reducido):\n\n-   [XV Jornadas](https://rvalencia.webs.upv.es),\n\nSi no eres socio R-hispano, ¡es facilísimo! Simplemente rellena este formulario:\n\n<https://docs.google.com/forms/d/1qq2l2we1JvVFjLAKmvqz3CuzQIzouKLU2-h5ekArqJE/edit>\n\nEsperamos veros en Valencia.\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

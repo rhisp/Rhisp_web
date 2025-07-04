@@ -9,7 +9,7 @@
 <link>https://rhisp.github.io/Rhisp_web/</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/index.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.6.39</generator>
+<generator>quarto-1.7.29</generator>
 <lastBuildDate>Wed, 14 May 2025 22:00:00 GMT</lastBuildDate>
 <item>
   <title>Microcredencial Universitaria en Programación en R USAL</title>
@@ -83,10 +83,15 @@
 
 
 
-<p>Reservad estas fechas para el congReso / joRnadas Rhispano 2025:</p>
-<p>5 a 7 de noviembre</p>
-<p>en Valencia.</p>
-<p>Iremos publicando todos los detalles cuanto antes.</p>
+<p>Nos vamos a Valencia del 5 al 7 de Noviembre de 2025. El año pasado en las jornadas de Sevilla nuestros amigos de Valencia se ofrecieron a hacer las jornadas de 2025, a pesar de la situación por la que se estaba pasando por lo de la DANA.</p>
+<p>Para todos los que amamos R en particular y el análisis de datos en general será un inmenso placer estar allí en Noviembre.</p>
+<p>Inscripciones y envío de abstracts. (recuerda que debes ser socio R-hispano para disponer del precio reducido):</p>
+<ul>
+<li><a href="https://rvalencia.webs.upv.es">XV Jornadas</a>,</li>
+</ul>
+<p>Si no eres socio R-hispano, ¡es facilísimo! Simplemente rellena este formulario:</p>
+<p><a href="https://docs.google.com/forms/d/1qq2l2we1JvVFjLAKmvqz3CuzQIzouKLU2-h5ekArqJE/edit" class="uri">https://docs.google.com/forms/d/1qq2l2we1JvVFjLAKmvqz3CuzQIzouKLU2-h5ekArqJE/edit</a></p>
+<p>Esperamos veros en Valencia.</p>
 
 
 
