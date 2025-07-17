@@ -17,7 +17,7 @@ image: master_uclm.png
 
 La Universidad de Castilla-La Mancha: https://blog.uclm.es/tp-mbsba/, vuelve a impartir el  Máster en Data Science & Business Analytics (con R software). 
 
-Los SOCIOS de __R-Hispano__ los  de R-Hispano tenemos una bonificación del 10% sobre el precio de matrícula. 
+Los SOCIOS de __R-Hispano__ tenemos una bonificación del 10% sobre el precio de matrícula. 
  
 
 * 📶Enseñanza on-line 100%.
