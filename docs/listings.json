@@ -28,6 +28,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/formacion_post/2025/master_uclm.html",
       "/formacion_post/2025/Microcredencial_R_USAL_2025-05-15.html",
       "/blog/Large_language_models_for_R.html",
       "/jornadas_post/Jornadas_R_valencia_2025.html",
@@ -53,6 +54,7 @@
   {
     "listing": "/formacion_post.html",
     "items": [
+      "/formacion_post/2025/master_uclm.html",
       "/formacion_post/2025/Microcredencial_R_USAL_2025-05-15.html",
       "/formacion_post/2025/Geospatialworld_2025-02-28.html",
       "/formacion_post/2025/Concurso_viz_Asturias_2025-02-27.html",

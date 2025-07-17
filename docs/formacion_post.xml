@@ -9,8 +9,39 @@
 <link>https://rhisp.github.io/Rhisp_web/formacion_post.html</link>
 <atom:link href="https://rhisp.github.io/Rhisp_web/formacion_post.xml" rel="self" type="application/rss+xml"/>
 <description>Asociación de usuarios de R de España</description>
-<generator>quarto-1.7.29</generator>
-<lastBuildDate>Wed, 14 May 2025 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Wed, 16 Jul 2025 22:00:00 GMT</lastBuildDate>
+<item>
+  <title>Máster en Data Science &amp; Business Analytics (con R software)</title>
+  <dc:creator>Comunidad R-Hispano</dc:creator>
+  <link>https://rhisp.github.io/Rhisp_web/formacion_post/2025/master_uclm.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>La Universidad de Castilla-La Mancha: https://blog.uclm.es/tp-mbsba/, vuelve a impartir el Máster en Data Science &amp; Business Analytics (con R software).</p>
+<p>Los SOCIOS de <strong>R-Hispano</strong> los de R-Hispano tenemos una bonificación del 10% sobre el precio de matrícula.</p>
+<ul>
+<li><p>📶Enseñanza on-line 100%.</p></li>
+<li><p>📕 Manual elaborado por el 90% del profesorado del máster. Pincha en el enlace y accede a él directamente: <a href="https://cdr-book.github.io/index.html">Fundamentos de ciencia de datos con R</a></p></li>
+<li><p>🧪⛹️‍♂️👩‍⚕️💉👩‍💻🏀🏭 Masterclasses impartidas por profesionales de reconocido prestigio. 💶Formación FUNDAE.</p></li>
+<li><p>💰10% de bonificación sobre el precio de matrícula si te matriculas antes del 31-de julio-2025.</p></li>
+<li><p>📈Aprendizaje y uso intensivo de R para Data Science y Business Analytics.</p></li>
+<li><p>👩‍🎓Posibilidad de obtención de títulos de Experto y Máster convalidando créditos.</p></li>
+<li><p>📐Cursos de Formación Avanzada Universitaria (CUFAs) si no dispones de título universitario.</p></li>
+</ul>
+<p>👩‍🏫 <strong>Inscríbete</strong> en el máster en Data Science &amp; Business Analytics (con R software) de la Universidad de Castilla-La Mancha: <a href="https://blog.uclm.es/tp-mbsba/">https://blog.uclm.es/tp-mbsba/</a></p>
+
+
+
+ ]]></description>
+  <category>2025</category>
+  <category>Formación</category>
+  <guid>https://rhisp.github.io/Rhisp_web/formacion_post/2025/master_uclm.html</guid>
+  <pubDate>Wed, 16 Jul 2025 22:00:00 GMT</pubDate>
+  <media:content url="https://rhisp.github.io/Rhisp_web/formacion_post/2025/master_uclm.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
 <item>
   <title>Microcredencial Universitaria en Programación en R USAL</title>
   <dc:creator>Comunidad R-Hispano</dc:creator>
