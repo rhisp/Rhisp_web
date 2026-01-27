@@ -1,0 +1,31 @@
+---
+title: "Cursos para aprender R"
+date: '2026-01-27'
+date-modified: last-modified
+categories:
+  - "2026"
+  - Formación
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+image: imagenes_post_22.jpg
+---
+
+En la última reunión del grupo R-madRid (¡[celebramos nuestra reunión número 100](https://madrid.r-es.org/100-miercoles-26-de-noviembre-2025/ "reunión número 100 R-madRid")!) hubo una pregunta de un/a asistente sobre recursos para aprender R.
+
+Recordamos que nuestra asociación fue requerida por [datos.gob.es](https://datos.gob.es/es/) allá por 2021 para proporcionar un listado de recursos formativos contrastados, especialmente disponibles online, de nuestro entorno de análisis preferido. Sigue disponible aquí, y dicen que está actualizado en 2024:
+
+<https://datos.gob.es/es/noticias/cursos-para-aprender-mas-sobre-r>
+
+Sin embargo hemos comprobado que algunos de ellos no están disponibles, pero sobre todo que probablemente no añade otros recursos que hayan aparecido más recientemente.
+
+Por tanto, esta entrada solicita información a todos en R-hispano:
+
+¿Qué recursos -preferiblemente accesibles online, y en castellano- son especialmente recomendables?
+
+Asimismo, opiniones sobre los recursos listados -si alguno/a los habéis consultado-, tanto positivas como negativas, para que con todas estas informaciones preparemos un listado actualizado que podemos publicar por aquí (llegado el caso incluso comunicarlo a datos.gob.es para que actualicen esa página).
+
+Por favor escribid al buzón de correo electrónico [formacion\@r-es.org](mailto:formacion@r-es.org)
