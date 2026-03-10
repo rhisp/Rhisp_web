@@ -1,0 +1,36 @@
+---
+title: "Cursos estadística aplicada con R. UAM (7ª Edición)"
+date: '2026-03-10'
+date-modified: last-modified
+categories:
+  - "2026"
+  - Formación
+format: 
+  html: 
+    fig-height: 5
+    fig-dpi: 300
+    fig-width: 8.88
+    fig-align: center
+image: imagenes_post_22.jpg
+---
+
+__¡¡ Nuevo curso de estadística con R!!__
+
+La Facultad de Ciencias de la Universidad Autónoma de Madrid (UAM), en colaboración con el Departamento de Bioestadística de GEICAM y la Fundación FUNDAE, organiza la 7º Edición del programa de formación continua en “Estadística Aplicada con R” que se va a impartir en Madrid en 2026 de forma presencial. El programa está compuesto por 8 módulos que pueden ser cursados de forma independiente. A destacar que este año hemos incorporado 2 nuevos módulos, “Introducción práctica a la Estadística Bayesiana con R” y “Agentes de IA para Docencia e Investigación en R”, con la intención de ampliar nuestra oferta formativa; y por otro lado, el contenido de todos los demás módulos ha sido actualizado, desde la anterior edición.
+
+__Módulos y Fechas 2026__
+
+1. Introducción a R (Opción A) : 7, 8, 9 Abril  
+1. Introducción a R (Opción B) : 14, 15, 16 Abril
+2. Visualización Interactiva de Datos con el paquete Shiny : 21, 22 Abril
+3. Agentes de IA para Docencia e Investigación en R: 23, 24 Abril
+4. Métodos de Regresión y Análisis Multivariante con R : 27, 28, 29, 30 Abril
+5. Estadística Aplicada a la Investigación Biomédica con R : 6,7, 8 Mayo
+6. Introducción práctica a la Estadística Bayesiana con R: 12, 13, 14 Mayo
+7. Machine Learning con R y tidymodels : 18, 19, 20, 21, 22 Mayo
+8. Análisis de Datos Funcionales con R : 26, 27, 28 Mayo
+
+
+Todos los módulos se impartirán en la Facultad de Ciencias de la UAM.
+Si quieres obtener más información, lo puedes hacer en la siguiente página, donde también podrás formalizar la matrícula: https://bit.ly/4rovAY1
+Si deseas tener un PDF con el temario detallado, lo puedes obtener dentro de la página anterior o directamente en este link: https://bit.ly/3Oll9GV

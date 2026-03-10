@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.29">
+<meta name="generator" content="quarto-1.8.27">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -36,14 +36,15 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-b0fd8c2faf68ac8189ad83a0007d6d5e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-efd6ff7163e34c65f10ccb003a1f55f5.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-08824cf3e07ac8d92a82b945996389f1.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-cb8c16b76e143924db26c0368c9e5b24.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -142,7 +143,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -181,7 +182,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/logo_hexagonal.jpeg" alt="" class="navbar-logo">
+    <img src="./images/logo_hexagonal.jpeg" alt="" class="navbar-logo light-content">
+    <img src="./images/logo_hexagonal.jpeg" alt="" class="navbar-logo dark-content">
     </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Comunidad R Hispano</span>
@@ -297,7 +299,7 @@ window.Quarto = {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="MjAyNSUyQ0pvcm5hZGFz" data-listing-date-sort="1743030000000" data-listing-file-modified-sort="1751643304799" data-listing-date-modified-sort="1751643304000" data-listing-reading-time-sort="1" data-listing-word-count-sort="102">
+<div class="quarto-post image-right" data-index="0" data-categories="MjAyNSUyQ0pvcm5hZGFz" data-listing-date-sort="1743030000000" data-listing-file-modified-sort="1773156403282" data-listing-date-modified-sort="1773156403000" data-listing-reading-time-sort="1" data-listing-word-count-sort="102">
 <div class="thumbnail"><a href="./jornadas_post/Jornadas_R_valencia_2025.html" class="no-external">
 
 <img loading="lazy" src="./images/formacion.png" class="thumbnail-image">
@@ -327,7 +329,7 @@ Mar 27, 2025
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="MjAyNCUyQ0pvcm5hZGFz" data-listing-date-sort="1726437600000" data-listing-file-modified-sort="1751642348928" data-listing-date-modified-sort="1751642348000" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
+<div class="quarto-post image-right" data-index="1" data-categories="MjAyNCUyQ0pvcm5hZGFz" data-listing-date-sort="1726437600000" data-listing-file-modified-sort="1773156403281" data-listing-date-modified-sort="1773156403000" data-listing-reading-time-sort="1" data-listing-word-count-sort="5">
 <div class="thumbnail"><a href="./jornadas_post/Jornadas_R_sevilla.html" class="no-external">
 
 <img loading="lazy" src="./images/sevillaR.png" class="thumbnail-image">
@@ -357,7 +359,7 @@ Sep 16, 2024
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="MjAyMyUyQ0pvcm5hZGFz" data-listing-date-sort="1692136800000" data-listing-file-modified-sort="1751642348928" data-listing-date-modified-sort="1751642348000" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
+<div class="quarto-post image-right" data-index="2" data-categories="MjAyMyUyQ0pvcm5hZGFz" data-listing-date-sort="1692136800000" data-listing-file-modified-sort="1773156403281" data-listing-date-modified-sort="1773156403000" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
 <div class="thumbnail"><a href="./jornadas_post/Jornadas_R_Barcelona.html" class="no-external">
 
 <img loading="lazy" src="./images/meeting.png" class="thumbnail-image">
@@ -441,13 +443,14 @@ Aug 16, 2023
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
